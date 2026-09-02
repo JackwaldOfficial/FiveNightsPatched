@@ -1,8 +1,8 @@
-
-||||||==================40==================|
+### vo_phoneguy_call4 Subtitles (en-US English) ###
+### Native Language ###
+|=========================================|
 // Phone Guy to Player
 // use the V-form of distinction if applicable
-
 [1]
 sta=17655
 dat1=Hello, hello! Hey!
@@ -58,10 +58,6 @@ dat2=until someone...checks.
 sta=46905
 dat1=Maybe it won't be so bad.
 
-[/]dat0=Yeah I-I-I-I always wondered
-[/]dat0=what was
-[/]dat0=in all those empty heads...
-
 [13]
 sta=49100
 dat1=Yeah I-I-I-I always wondered
@@ -81,10 +77,4 @@ sta=56345
 end=56850
 dat1=Oh no.
 
-||||||==================40==================|
-// EOF
-
-// SUBS_ENDTAGGED
-// SUBS_ALTERNATES
-// SUBS_COMMENTED
-// SUBS_SPELLCHECKED
+|=========================================|

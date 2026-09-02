@@ -1,8 +1,8 @@
-
-||||||==================40==================|
+### vo_phoneguy_call2 Subtitles (en-US English) ###
+### Native Language ###
+|=========================================|
 // Phone Guy to Player
 // use the V-form of distinction if applicable
-
 [1]
 sta=18680
 dat1=Uh, hello? Hello?
@@ -21,35 +21,15 @@ sta=25730
 dat1=I-I won't talk quite as long
 dat2=this time since...
 
-[/]dat0=..Freddy and his friends
-[/]dat0=tend to become more active
-[/]dat0=as the week progresses.
-
 [5]
 sta=28610
 dat1=..Freddy and his friends tend to become
 dat2=more active as the week progresses.
 
-
-
-
-
-[/]dat0=Uhh, it might be a good idea
-[/]dat0=to peek at those cameras
-[/]dat0=while I talk,
-
 [6]
 sta=32910
 dat1=Uhh, it might be a good idea
 dat2=to peek at those cameras while I talk,
-
-
-
-
-
-[/]dat0=just to make sure
-[/]dat0=everyone's in their proper place,
-[/]dat0=you know.
 
 [7]
 sta=36770
@@ -79,10 +59,6 @@ sta=49540
 dat1=I guess that's one more reason
 dat2=not to run out of power, right?
 
-[/]dat0=Uh, I also want to emphasize
-[/]dat0=the importance
-[/]dat0=of using your door lights.
-
 [13]
 sta=53029
 dat1=Uh, I also want to emphasize
@@ -98,23 +74,14 @@ sta=60980
 dat1=and those blind spots happen to be
 dat2=right outside your doors.
 
-[/]dat0=So i-if you can't find
-[/]dat0=something...
-[/]dat0=..or someone on your cameras,
-
 [16]
 sta=64745
 dat1=So i-if you can't find something...
 dat2=..or someone on your cameras,
 
-
-
-
-
 [17]
 sta=69755
 dat1=uh, be sure to check the door lights.
-
 
 [18]
 sta=71730
@@ -130,27 +97,15 @@ dat2=in any danger of course.
 sta=77790
 dat1=I-I'm not implying that.
 
-[/]dat0=Uh, also, uh-h,
-[/]dat0=check on the curtain in pirate cove
-[/]dat0=f-from time to time.
-
 [21]
 sta=80270
 dat1=Uh, also, uh-h, check on the curtain
 dat2=in pirate cove f-from time to time.
 
-
-
-
-
 [22]
 sta=85325
 dat1=The character in there seems unique
 dat2=in that he becomes...
-
-[/]dat0=..more active
-[/]dat0=if the cameras remain off
-[/]dat0=for long periods of time.
 
 [23]
 sta=88275
@@ -177,10 +132,4 @@ sta=98720
 end=99850
 dat1=uh, talk to you soon.
 
-||||||==================40==================|
-// EOF
-
-// SUBS_ENDTAGGED
-// SUBS_ALTERNATES
-// SUBS_COMMENTED
-// SUBS_SPELLCHECKED
+|=========================================|

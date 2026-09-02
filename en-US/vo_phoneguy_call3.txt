@@ -1,8 +1,8 @@
-
-||||||==================40==================|
+### vo_phoneguy_call3 Subtitles (en-US English) ###
+### Native Language ###
+|=========================================|
 // Phone Guy to Player
 // use the V-form of distinction if applicable
-
 [1]
 sta=19725
 dat1=Hello hello!
@@ -12,7 +12,6 @@ dat2=Hey you're doing great!
 sta=22650
 dat1=Uh most people don't last this long.
 
-
 [3]
 sta=25090
 dat1=I mean, you know,
@@ -21,10 +20,6 @@ dat1=I mean, you know,
 sta=26585
 dat1=th-they usually move on
 dat2=to other things by now.
-
-[/]dat0=Uh, uh,
-[/]dat0=I'm not implying that they died.
-[/]dat0=Th-Th-That's not what I meant.
 
 [5]
 sta=29425
@@ -39,7 +34,6 @@ dat2=too much of your time.
 [7]
 sta=37380
 dat1=Uh, things start getting real tonight.
-
 
 [8]
 sta=39725
@@ -85,10 +79,6 @@ dat2=..stuff a metal skeleton into you.
 sta=62250
 dat1=I wonder how that would work.
 
-[/]dat0=Y-Yeah, never mind, scratch that.
-[/]dat0=I-It's best
-[/]dat0=just not to get caught.
-
 [18]
 sta=63945
 dat1=Y-Yeah, never mind, scratch that.
@@ -103,10 +93,4 @@ sta=71110
 end=72400
 dat1=See you on the flip side.
 
-||||||==================40==================|
-// EOF
-
-// SUBS_ENDTAGGED
-// SUBS_ALTERNATES
-// SUBS_COMMENTED
-// SUBS_SPELLCHECKED
+|=========================================|

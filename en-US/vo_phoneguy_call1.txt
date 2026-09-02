@@ -1,8 +1,8 @@
-
-||||||==================40==================|
+### vo_phoneguy_call1 Subtitles (en-US English) ###
+### Native Language ###
+|=========================================|
 // Phone Guy to Player
 // use the V-form of distinction if applicable
-
 [1]
 sta=18900
 dat1=Hello, hello?
@@ -22,10 +22,6 @@ sta=27540
 dat1=Um... I actually worked
 dat2=in that office before you.
 
-[/]dat0=I'm...finishing up
-[/]dat0=my last week now,
-[/]dat0=as a matter of fact, so...
-
 [5]
 sta=31050
 dat1=I'm...finishing up my last week now,
@@ -34,7 +30,6 @@ dat2=as a matter of fact, so...
 [6]
 sta=35320
 dat1=..I know it can be a bit overwhelming.
-
 
 [7]
 sta=37750
@@ -86,11 +81,6 @@ dat2=and grown-ups alike,
 sta=61930
 dat1="where fantasy and fun come to life.
 
-[/]dat0="Fazbear Entertainment
-[/]dat0=is not responsible
-[/]dat0=for damage to property
-[/]dat0=or a person.
-
 [18]
 sta=64610
 dat1="Fazbear Entertainment is not responsible
@@ -131,10 +121,6 @@ dat1=Now that might sound bad, I know.
 sta=83670
 dat1=But there's really
 dat2=nothing to worry about.
-
-[/]dat0=Uh, the animatronic
-[/]dat0=characters here...
-[/]dat0=..do get a bit quirky at night,
 
 [27]
 sta=86390
@@ -181,19 +167,10 @@ dat2=a little respect.
 sta=107340
 dat1=Right? Okay.
 
-[/]dat0=So just be aware,
-[/]dat0=the characters do tend
-[/]dat0=to wander a bit.
-
 [37]
 sta=109150
 dat1=So just be aware,
 dat2=the characters do tend to wander a bit.
-
-
-
-
-
 
 [38]
 sta=114020
@@ -217,7 +194,6 @@ dat2=to walk around during the day too.
 [42]
 sta=125470
 dat1=But then there was "The Bite of '87."
-
 
 [43]
 sta=128400
@@ -279,20 +255,10 @@ sta=159545
 dat1=..forcefully stuff you
 dat2=inside a Freddy Fazbear suit.
 
-[/]dat0=Um...
-[/]dat0=now that wouldn't be so bad
-[/]dat0=if the suits themselves
-[/]dat0=weren't filled
-
 [56]
 sta=163560
 dat1=Um... now that wouldn't be so bad
 dat2=if the suits themselves weren't filled
-
-
-
-
-
 
 [57]
 sta=168110
@@ -303,16 +269,10 @@ dat2=and animatronic devices,
 sta=172280
 dat1=especially around the facial area.
 
-
 [59]
 sta=174460
 dat1=So you could imagine
 dat2=how having your head
-
-[/]dat0=forcefully pressed
-[/]dat0=inside one of those
-[/]dat0=could cause
-[/]dat0=a bit of discomfort...
 
 [60]
 sta=176300
@@ -335,7 +295,6 @@ dat2=see the light of day again
 [64]
 sta=185110
 dat1=would be your eyeballs and teeth
-
 
 [65]
 sta=186510
@@ -374,10 +333,4 @@ sta=202680
 end=203550
 dat1=Alright, good night.
 
-||||||==================40==================|
-// EOF
-
-// SUBS_ENDTAGGED
-// SUBS_ALTERNATES
-// SUBS_COMMENTED
-// SUBS_SPELLCHECKED
+|=========================================|
