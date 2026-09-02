@@ -2,7 +2,7 @@
 ### Native Language ###
 |=========================================|
 // classified advertisement in newspaper
-[/4-New Game Intro (ad)]
+[4-New Game Intro (ad)]
 steps=8
 dat1=HELP WANTED
 dat2=Freddy Fazbear's Pizza
