@@ -1,10 +1,9 @@
-
-||||||==================40==================|
+### Forced Subtitles (en-US English) ###
+### Native Language ###
+|=========================================|
 // classified advertisement in newspaper
-
-[/13-ad]
+[/4-New Game Intro (ad)]
 steps=8
-
 dat1=HELP WANTED
 dat2=Freddy Fazbear's Pizza
 
@@ -26,34 +25,31 @@ dat12=
 dat13=To apply call:
 dat14=1-555-FAZ-FAZBEAR
 
-
-
-
-||||||==================40==================|
-
-[/68]
+|=========================================|
+// graffiti in CAM 4A
+[68]
 steps=1
 dat1=IT'S ME IT'S ME
 dat2=
 
-[/73]
+// graffiti in CAM 1C
+[73]
 steps=1
 dat1=IT'S ME
 dat2=
 
-[/piratecove]
+// sign in CAM 1C
+[26]
 steps=1
 dat1=-SORRY!-
 dat2=OUT OF ORDER
 
-||||||==================40==================
-// note on the wall
+|=========================================|
+// note on the wall in CAM 4B
 // Restaurant Management to children
 // use the T-form of distinction if applicable
-
 [23]
 steps=5
-
 dat1=RULES FOR SAFETY
 dat2=1. Don't run.
 
@@ -69,12 +65,11 @@ dat8=7. Don't hit.
 dat9=8. Leave before dark.
 dat10=thank you, management
 
-||||||==================40==================|
+|=========================================|
 // newspaper articles
-
+// article 1
 [69]
 steps=9
-
 dat1=Kids vanish at local pizzeria -
 dat2=- bodies not found.
 
@@ -102,10 +97,9 @@ dat16=as a company mascot
 dat17=to earn the children's trust.
 dat18=
 
---------------------
+// article 2
 [70]
 steps=8
-
 dat1=Local pizzeria threatened
 dat2=with shutdown over sanitation.
 
@@ -130,16 +124,9 @@ dat14=of the mascots.
 dat15=One parent alikened them to
 dat16="reanimated carcasses".
 
-
-
-
-
-
-
---------------------
+// article 3
 [71]
 steps=7
-
 dat1=Five children now reported missing.
 dat2=Suspect convicted.
 
@@ -161,19 +148,9 @@ dat12=to return to the pizzeria.
 dat13="It's a tragedy."
 dat14=
 
-
-
-
-
-
-
-
-
-
---------------------
+// article 4
 [72]
 steps=8
-
 dat1=Local pizzeria said to close
 dat2=by year's end.
 
@@ -198,64 +175,32 @@ dat14=
 dat15="In the hearts of the kids-
 dat16=these characters will live on." - CEO
 
-
-
-
-||||||==================40==================|
-// paycheck
-
-[/12-the end]
-steps=4
-
-dat1=DATE: 11-12-xx
-dat2=PAY TO THE ORDER OF: Mike Schmidt
-
-dat3=$ 120.00
-dat4=One hundred twenty dollars
-
-dat5=MEMO: valued employee
-dat6=Fazbear Entertainment
-
---------------------
-[/14-the end 2]
-steps=4
-
-dat1=DATE: 11-13-xx
-dat2=PAY TO THE ORDER OF: Mike Schmidt
-
-dat3=$ 120.50
-dat4=One hundred twenty dollars and 50/100
-
-dat5=MEMO: employee of the month
-dat6=Fazbear Entertainment
-
-||||||==================40==================|
+|=========================================|
 // informal notes from company management to employee/Player
+// Night 5 paycheck
 // use the T-form of distinction if applicable
-
-[/12-the end]
+[/14-Night 5 Paycheck (the end)]
 steps=3
-
 dat1=Good job, sport!
 dat2=(see you next week)
 
 dat3=MEMO: valued employee
 dat4=
 
---------------------
-[/14-the end 2]
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[/15-Night 6 Paycheck (the end 2)]
 steps=3
-
 dat1=Good job, sport!
 dat2=(You've earned some overtime!)
 
 dat3=MEMO: employee of the month
 dat4=
 
---------------------
-[/16-the end 3]
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[/16-Custom Night Pink Slip (the end 3)]
 steps=4
-
 dat1=NOTICE OF TERMINATION
 dat2=(you're fired)
 
@@ -265,13 +210,4 @@ dat4=General unprofessionalism. Odor.
 dat5=thanks, mngmt
 dat6=
 
-
-
-
-||||||==================40==================|
-// EOF
-
-// SUBS_ENDTAGGED
-// SUBS_ALTERNATES
-// SUBS_COMMENTED
-// SUBS_SPELLCHECKED
+|=========================================|
