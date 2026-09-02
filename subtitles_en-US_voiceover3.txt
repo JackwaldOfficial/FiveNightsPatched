@@ -1,0 +1,112 @@
+
+||||||==================40==================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+
+[1]
+sta=19725
+dat1=Hello hello!
+dat2=Hey you're doing great!
+
+[2]
+sta=22650
+dat1=Uh most people don't last this long.
+
+
+[3]
+sta=25090
+dat1=I mean, you know,
+
+[4]
+sta=26585
+dat1=th-they usually move on
+dat2=to other things by now.
+
+[/]dat0=Uh, uh,
+[/]dat0=I'm not implying that they died.
+[/]dat0=Th-Th-That's not what I meant.
+
+[5]
+sta=29425
+dat1=Uh, uh, I'm not implying that they died.
+dat2=Th-Th-That's not what I meant.
+
+[6]
+sta=34035
+dat1=Uh, anyway I-I better not take up
+dat2=too much of your time.
+
+[7]
+sta=37380
+dat1=Uh, things start getting real tonight.
+
+
+[8]
+sta=39725
+dat1=Uh, h-h-hey listen, I-I had an idea.
+
+[9]
+sta=42705
+dat1=If you happen to get caught
+
+[10]
+sta=44275
+dat1=a-and want to avoid getting stuffed
+dat2=into a Freddy suit,
+
+[11]
+sta=47691
+dat1=uhh, try playing dead!
+
+[12]
+sta=49580
+dat1=You know, go limp.
+
+[13]
+sta=51255
+dat1=Then there's a chance that,
+
+[14]
+sta=52480
+dat1=uh, maybe they'll think
+dat2=that you're an empty costume instead.
+ 
+[15]
+sta=56230
+dat1=Uh, then again if they think
+dat2=you're an empty costume
+
+[16]
+sta=58580
+dat1=they might try to...
+dat2=..stuff a metal skeleton into you.
+ 
+[17]
+sta=62250
+dat1=I wonder how that would work.
+
+[/]dat0=Y-Yeah, never mind, scratch that.
+[/]dat0=I-It's best
+[/]dat0=just not to get caught.
+
+[18]
+sta=63945
+dat1=Y-Yeah, never mind, scratch that.
+dat2=I-It's best just not to get caught.
+
+[19]
+sta=68340
+dat1=Um... o-okay, I-I'll leave you to it.
+
+[20]
+sta=71110
+end=72400
+dat1=See you on the flip side.
+
+||||||==================40==================|
+// EOF
+
+// SUBS_ENDTAGGED
+// SUBS_ALTERNATES
+// SUBS_COMMENTED
+// SUBS_SPELLCHECKED

@@ -1,0 +1,90 @@
+
+||||||==================40==================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+
+[1]
+sta=17655
+dat1=Hello, hello! Hey!
+dat2=Hey wow, day four.
+
+[2]
+sta=21060
+dat1=I knew you could do it.
+dat2=Uh, hey listen.
+
+[3]
+sta=23345
+dat1=Uh, I may not be around
+dat2=to send you a message tomorrow.
+
+[4]
+sta=26255
+dat1=Uh, it's-it's been a bad night here...
+dat2=..for me.
+
+[5]
+sta=30510
+dat1=Um, I-I'm kinda glad
+dat2=that I recorded my messages for you, hem
+
+[6]
+sta=34990
+dat1=Uh, when I did.
+
+[7]
+sta=36085
+dat1=Uh hey, do me a favor.
+
+[8]
+sta=38070
+dat1=Uh maybe sometime,
+
+[9]
+sta=39665
+dat1=uh, you could check
+dat2=inside those suits...
+
+[10]
+sta=41915
+dat1=..uh in the back room?
+
+[11]
+sta=43250
+dat1=Uh, I'm gonna to try to hold out
+dat2=until someone...checks.
+
+[12]
+sta=46905
+dat1=Maybe it won't be so bad.
+
+[/]dat0=Yeah I-I-I-I always wondered
+[/]dat0=what was
+[/]dat0=in all those empty heads...
+
+[13]
+sta=49100
+dat1=Yeah I-I-I-I always wondered
+dat2=what was in all those empty heads...
+
+[14]
+sta=52380
+dat1=..back there.
+
+[15]
+sta=53660
+end=54100
+dat1=You know.
+
+[16]
+sta=56345
+end=56850
+dat1=Oh no.
+
+||||||==================40==================|
+// EOF
+
+// SUBS_ENDTAGGED
+// SUBS_ALTERNATES
+// SUBS_COMMENTED
+// SUBS_SPELLCHECKED

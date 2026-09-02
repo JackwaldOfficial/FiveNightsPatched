@@ -1,0 +1,277 @@
+
+||||||==================40==================|
+// classified advertisement in newspaper
+
+[/13-ad]
+steps=8
+
+dat1=HELP WANTED
+dat2=Freddy Fazbear's Pizza
+
+dat3=Family pizzeria looking for
+dat4=security guard to work the nightshift.
+
+dat5=12 am to 6 am.
+dat6=
+
+dat7=Monitor cameras, ensure safety
+dat8=of equipment and animatronic characters.
+
+dat9=Not responsible
+dat10=for injury/dismemberment.
+
+dat11=$120 a week.
+dat12=
+
+dat13=To apply call:
+dat14=1-555-FAZ-FAZBEAR
+
+
+
+
+||||||==================40==================|
+
+[/68]
+steps=1
+dat1=IT'S ME IT'S ME
+dat2=
+
+[/73]
+steps=1
+dat1=IT'S ME
+dat2=
+
+[/piratecove]
+steps=1
+dat1=-SORRY!-
+dat2=OUT OF ORDER
+
+||||||==================40==================
+// note on the wall
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+
+[23]
+steps=5
+
+dat1=RULES FOR SAFETY
+dat2=1. Don't run.
+
+dat3=2. Don't yell.
+dat4=3. Don't scream.
+
+dat5=4. Don't poop on floor.
+dat6=5. Stay close to mom.
+
+dat7=6. Don't touch Freddy.
+dat8=7. Don't hit.
+
+dat9=8. Leave before dark.
+dat10=thank you, management
+
+||||||==================40==================|
+// newspaper articles
+
+[69]
+steps=9
+
+dat1=Kids vanish at local pizzeria -
+dat2=- bodies not found.
+
+dat3=Two local children
+dat4=were reportedly lured into a back room
+
+dat5=during the late hours of operation
+dat6=at Freddy Fazbear's Pizza
+
+dat7=on the night of June 26th.
+dat8=
+
+dat9=While video surveillance
+dat10=identified the man responsible
+
+dat11=and led to his capture
+dat12=the following morning,
+
+dat13=the children themselves were never found
+dat14=and are presumed dead.
+
+dat15=Police think that the suspect dressed
+dat16=as a company mascot
+
+dat17=to earn the children's trust.
+dat18=
+
+--------------------
+[70]
+steps=8
+
+dat1=Local pizzeria threatened
+dat2=with shutdown over sanitation.
+
+dat3=Local pizzeria, Freddy Fazbear's Pizza
+dat4=has been threatened again with shutdown
+
+dat5=by the health department
+dat6=over reports of foul odor
+
+dat7=coming from the much-loved
+dat8=animal mascots.
+
+dat9=Police were contacted
+dat10=
+
+dat11=when parents reportedly noticed
+dat12=what appeared to be blood and mucus
+
+dat13=around the eyes and mouths
+dat14=of the mascots.
+
+dat15=One parent alikened them to
+dat16="reanimated carcasses".
+
+
+
+
+
+
+
+--------------------
+[71]
+steps=7
+
+dat1=Five children now reported missing.
+dat2=Suspect convicted.
+
+dat3=Five children are now linked
+dat4=to the incident at Freddy Fazbear's Pizza,
+
+dat5=where a man dressed as a cartoon mascot
+dat6=lured them into a back room.
+
+dat7=While the suspect has been charged,
+dat8=the bodies themselves were never found.
+
+dat9=Freddy Fazbear's Pizza has been fighting
+dat10=an uphill battle ever since
+
+dat11=to convince families
+dat12=to return to the pizzeria.
+
+dat13="It's a tragedy."
+dat14=
+
+
+
+
+
+
+
+
+
+
+--------------------
+[72]
+steps=8
+
+dat1=Local pizzeria said to close
+dat2=by year's end.
+
+dat3=After a long struggle to stay in business
+dat4=
+
+dat5=after the tragedy that took place there
+dat6=many years ago,
+
+dat7=Freddy Fazbear's Pizza has announced
+dat8=that it will close by year's end.
+
+dat9=Despite a year-long search for a buyer,
+dat10=
+
+dat11=companies seem unwilling to be
+dat12=associated with the company.
+
+dat13="These characters will live on.
+dat14=
+
+dat15="In the hearts of the kids-
+dat16=these characters will live on." - CEO
+
+
+
+
+||||||==================40==================|
+// paycheck
+
+[/12-the end]
+steps=4
+
+dat1=DATE: 11-12-xx
+dat2=PAY TO THE ORDER OF: Mike Schmidt
+
+dat3=$ 120.00
+dat4=One hundred twenty dollars
+
+dat5=MEMO: valued employee
+dat6=Fazbear Entertainment
+
+--------------------
+[/14-the end 2]
+steps=4
+
+dat1=DATE: 11-13-xx
+dat2=PAY TO THE ORDER OF: Mike Schmidt
+
+dat3=$ 120.50
+dat4=One hundred twenty dollars and 50/100
+
+dat5=MEMO: employee of the month
+dat6=Fazbear Entertainment
+
+||||||==================40==================|
+// informal notes from company management to employee/Player
+// use the T-form of distinction if applicable
+
+[/12-the end]
+steps=3
+
+dat1=Good job, sport!
+dat2=(see you next week)
+
+dat3=MEMO: valued employee
+dat4=
+
+--------------------
+[/14-the end 2]
+steps=3
+
+dat1=Good job, sport!
+dat2=(You've earned some overtime!)
+
+dat3=MEMO: employee of the month
+dat4=
+
+--------------------
+[/16-the end 3]
+steps=4
+
+dat1=NOTICE OF TERMINATION
+dat2=(you're fired)
+
+dat3=REASON: Tampering with the animatronics.
+dat4=General unprofessionalism. Odor.
+
+dat5=thanks, mngmt
+dat6=
+
+
+
+
+||||||==================40==================|
+// EOF
+
+// SUBS_ENDTAGGED
+// SUBS_ALTERNATES
+// SUBS_COMMENTED
+// SUBS_SPELLCHECKED

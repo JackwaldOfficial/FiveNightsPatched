@@ -1,0 +1,383 @@
+
+||||||==================40==================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+
+[1]
+sta=18900
+dat1=Hello, hello?
+
+[2]
+sta=21740
+dat1=Uh... I wanted to record
+dat2=a message for you
+
+[3]
+sta=24740
+dat1=to help you get settled in
+dat2=on your first night.
+
+[4]
+sta=27540
+dat1=Um... I actually worked
+dat2=in that office before you.
+
+[/]dat0=I'm...finishing up
+[/]dat0=my last week now,
+[/]dat0=as a matter of fact, so...
+
+[5]
+sta=31050
+dat1=I'm...finishing up my last week now,
+dat2=as a matter of fact, so...
+
+[6]
+sta=35320
+dat1=..I know it can be a bit overwhelming.
+
+
+[7]
+sta=37750
+dat1=But I'm here to tell you
+dat2=there's nothing to worry about.
+
+[8]
+sta=40720
+dat1=Uh, you'll do fine.
+
+[9]
+sta=42400
+dat1=So, let's just focus
+
+[10]
+sta=44420
+dat1=on getting you through
+dat2=your first week, okay?
+
+[11]
+sta=47430
+dat1=Uh, let's see.
+
+[12]
+sta=48370
+dat1=First there's an introductory greeting
+dat2=from the company,
+
+[13]
+sta=51535
+dat1=that I'm supposed to read.
+
+[14]
+sta=53090
+dat1=Uh, i-it's kind of a legal thing,
+dat2=you know.
+
+[15]
+sta=55840
+dat1=Um,
+dat2="Welcome to Freddy Fazbear's Pizza.
+
+[16]
+sta=58850
+dat1="A magical place for kids
+dat2=and grown-ups alike,
+
+[17]
+sta=61930
+dat1="where fantasy and fun come to life.
+
+[/]dat0="Fazbear Entertainment
+[/]dat0=is not responsible
+[/]dat0=for damage to property
+[/]dat0=or a person.
+
+[18]
+sta=64610
+dat1="Fazbear Entertainment is not responsible
+dat2=for damage to property or a person.
+
+[19]
+sta=69140
+dat1="Upon discovering
+dat2=that damage or death has occurred,
+
+[20]
+sta=71610
+dat1="a missing person report
+dat2=will be filed within 90 days,
+
+[21]
+sta=74450
+dat1="or as soon property and premises
+
+[22]
+sta=76225
+dat1="have been thoroughly
+dat2=cleaned and bleached,
+
+[23]
+sta=78300
+dat1="and the carpets have been replaced."
+
+[24]
+sta=80100
+dat1=Blah blah blah.
+
+[25]
+sta=81350
+dat1=Now that might sound bad, I know.
+
+[26]
+sta=83670
+dat1=But there's really
+dat2=nothing to worry about.
+
+[/]dat0=Uh, the animatronic
+[/]dat0=characters here...
+[/]dat0=..do get a bit quirky at night,
+
+[27]
+sta=86390
+dat1=Uh, the animatronic characters here...
+dat2=..do get a bit quirky at night,
+
+[28]
+sta=90920
+dat1=but do I blame them? No.
+
+[29]
+sta=92920
+dat1=If I were forced to sing
+
+[30]
+sta=94700
+dat1=those same stupid songs
+dat2=for 20 years
+
+[31]
+sta=97090
+dat1=and I never got a bath?
+
+[32]
+sta=98530
+dat1=I'd probably be a bit irritable
+dat2=at night too.
+
+[33]
+sta=101060
+dat1=So remember,
+
+[34]
+sta=102210
+dat1=these characters hold a special place
+dat2=in the hearts of children
+
+[35]
+sta=105180
+dat1=and we need to show them
+dat2=a little respect.
+
+[36]
+sta=107340
+dat1=Right? Okay.
+
+[/]dat0=So just be aware,
+[/]dat0=the characters do tend
+[/]dat0=to wander a bit.
+
+[37]
+sta=109150
+dat1=So just be aware,
+dat2=the characters do tend to wander a bit.
+
+
+
+
+
+
+[38]
+sta=114020
+dat1=Uh, they're left in some kind of
+dat2=free roaming mode at night.
+
+[39]
+sta=117910
+dat1=Uh... something about
+dat2=their servos locking up
+
+[40]
+sta=120520
+dat1=if they get turned off for too long.
+
+[41]
+sta=122660
+dat1=Uh, they used to be allowed
+dat2=to walk around during the day too.
+
+[42]
+sta=125470
+dat1=But then there was "The Bite of '87."
+
+
+[43]
+sta=128400
+dat1=Yeah.
+
+[44]
+sta=129770
+dat1=I-It's amazing that the human body
+dat2=can live without the frontal lobe,
+
+[45]
+sta=133470
+dat1=you know?
+
+[46]
+sta=134400
+dat1=Uh now concerning your safety,
+dat2=the only real risk to you
+
+[47]
+sta=138520
+dat1=as a night watchman here,
+dat2=if any,
+
+[48]
+sta=140700
+dat1=is the fact that these characters,
+
+[49]
+sta=142800
+dat1=uh, if they happen
+dat2=to see you after hours,
+
+[50]
+sta=145460
+dat1=probably won't recognize you
+dat2=as a person.
+
+[51]
+sta=148900
+dat1=They'll most likely see you
+dat2=as a metal endoskeleton
+
+[52]
+sta=152200
+dat1=without its costume on.
+
+[53]
+sta=153940
+dat1=Now since that's against the rules
+dat2=here at Freddy Fazbear's Pizza,
+
+[54]
+sta=157600
+dat1=they'll probably try to...
+
+[55]
+sta=159545
+dat1=..forcefully stuff you
+dat2=inside a Freddy Fazbear suit.
+
+[/]dat0=Um...
+[/]dat0=now that wouldn't be so bad
+[/]dat0=if the suits themselves
+[/]dat0=weren't filled
+
+[56]
+sta=163560
+dat1=Um... now that wouldn't be so bad
+dat2=if the suits themselves weren't filled
+
+
+
+
+
+
+[57]
+sta=168110
+dat1=with crossbeams, wires
+dat2=and animatronic devices,
+
+[58]
+sta=172280
+dat1=especially around the facial area.
+
+
+[59]
+sta=174460
+dat1=So you could imagine
+dat2=how having your head
+
+[/]dat0=forcefully pressed
+[/]dat0=inside one of those
+[/]dat0=could cause
+[/]dat0=a bit of discomfort...
+
+[60]
+sta=176300
+dat1=forcefully pressed inside one of those
+dat2=could cause a bit of discomfort...
+
+[61]
+sta=180830
+dat1=..and death.
+
+[62]
+sta=182410
+dat1=Uh, the only parts of you
+
+[63]
+sta=183600
+dat1=that would likely
+dat2=see the light of day again
+
+[64]
+sta=185110
+dat1=would be your eyeballs and teeth
+
+
+[65]
+sta=186510
+dat1=when they pop out
+dat2=the front of the mask, heh.
+
+[66]
+sta=189300
+dat1=Y-Yeah, they don't tell you
+dat2=these things when you sign up.
+
+[67]
+sta=192390
+dat1=But hey, first day
+dat2=should be a breeze.
+
+[68]
+sta=194370
+dat1=I'll chat with you tomorrow.
+
+[69]
+sta=195920
+dat1=Uh, check those cameras,
+
+[70]
+sta=197080
+dat1=and remember to close the doors
+dat2=only if absolutely necessary.
+
+[71]
+sta=200990
+dat1=Gotta conserve power.
+
+[72]
+sta=202680
+end=203550
+dat1=Alright, good night.
+
+||||||==================40==================|
+// EOF
+
+// SUBS_ENDTAGGED
+// SUBS_ALTERNATES
+// SUBS_COMMENTED
+// SUBS_SPELLCHECKED
