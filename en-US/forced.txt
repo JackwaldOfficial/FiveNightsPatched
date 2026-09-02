@@ -2,7 +2,7 @@
 ### Native Language ###
 |=========================================|
 // classified advertisement in newspaper
-[4-New Game Intro (ad)]
+[/4-New Game Intro (ad)]
 steps=8
 dat1=HELP WANTED
 dat2=Freddy Fazbear's Pizza
@@ -179,7 +179,7 @@ dat16=these characters will live on." - CEO
 // informal notes from company management to employee/Player
 // Night 5 paycheck
 // use the T-form of distinction if applicable
-[14-Night 5 Paycheck (the end)]
+[/14-Night 5 Paycheck (the end)]
 steps=3
 dat1=Good job, sport!
 dat2=(see you next week)
