@@ -1,0 +1,108 @@
+### vo_phoneguy_call3 Subtitles (de-DE German) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=19725
+dat1=Hallo hallo!
+dat2=Hey, Sie schlagen sich großartig!
+
+[2]
+sta=22650
+dat1=Äh, die meisten anderen
+dat2=wären schon längst weg.
+
+[3]
+sta=25090
+dat1=Ich meine, sie wissen schon,
+
+[4]
+sta=26585
+dat1=d-die haben sich inzwischen
+dat2=schon längst nach was anderem umgesehen.
+
+[5]
+sta=29425
+dat1=Äh, äh, ich wollte damit nicht sagen,
+dat2=dass sie tot sind.
+
+[6]
+sta=32015
+dat1=D-D-Das habe ich damit nicht gemeint.
+
+[7]
+sta=34035
+dat1=Äh, naja, i-ich sollte Sie aber
+dat2=besser nicht zu lange aufhalten.
+
+[8]
+sta=37380
+dat1=Äh, heute Nacht geht's richtig los.
+
+[9]
+sta=39725
+dat1=Äh, h-h-hey, hören Sie,
+dat2=i-ich hab da eine Idee.
+
+[10]
+sta=42705
+dat1=Sollten Sie geschnappt werden
+
+[11]
+sta=44275
+dat1=u-und vermeiden wollen, in einen
+dat2=Freddy-Anzug gestopft zu werden,
+
+[12]
+sta=47691
+dat1=ähh, versuchen Sie sich tot zu stellen!
+
+[13]
+sta=49580
+dat1=Sie wissen schon,
+dat2=lassen Sie sich einfach schlaff hängen.
+
+[14]
+sta=51255
+dat1=Dann besteht die Chance,
+
+[15]
+sta=52480
+dat1=dass die vielleicht denken,
+dat2=dass Sie eigentlich ein leeres Kostüm sind.
+ 
+[16]
+sta=56230
+dat1=Äh, obwohl, wenn die denken,
+dat2=dass Sie ein leeres Kostüm sind,
+
+[17]
+sta=58580
+dat1=versuchen sie vielleicht...
+dat2=..ein Metallskelett in Sie hineinzustopfen.
+ 
+[18]
+sta=62250
+dat1=Ich frag mich, wie das laufen würde.
+
+[19]
+sta=63945
+dat1=N-Nee, vergessen Sie das lieber.
+
+[20]
+sta=65625
+dat1=A-Am besten
+dat2=lassen Sie sich erst gar nicht kriegen.
+
+[21]
+sta=68340
+dat1=Ähm... o-okay, dann lasse i-ich
+dat2=Sie jetzt mal in Ruhe arbeiten.
+
+[22]
+sta=71110
+end=72400
+dat1=Bis morgen dann.
+
+|=========================================|

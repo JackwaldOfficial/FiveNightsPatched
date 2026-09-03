@@ -1,0 +1,80 @@
+### vo_phoneguy_call4 Subtitles (es-419 Spanish Latin America) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=17655
+dat1=¡Hola, hola! ¡Ey!
+dat2=Oiga, ¡vaya!, es la cuarta noche.
+
+[2]
+sta=21060
+dat1=Sabía que podía hacerlo.
+dat2=Eh, oiga, escuche. 
+
+[3]
+sta=23345
+dat1=Eh, puede que no esté por aquí
+dat2=para enviarle un mensaje mañana.
+
+[4]
+sta=26255
+dat1=Eh, es-es que esta noche ha sido mala...
+dat2=..para mí.
+
+[5]
+sta=30510
+dat1=Mmm, e-estoy un poco contento por haber
+dat2=grabado mis mensajes para usted, ejem
+
+[6]
+sta=34990
+dat1=Eh, cuando los hice.
+
+[7]
+sta=36085
+dat1=Eh, oiga, hágame un favor.
+
+[8]
+sta=38070
+dat1=Eh, tal vez en algún momento,
+
+[9]
+sta=39665
+dat1=eh, ¿podría revisar
+dat2=dentro de esos trajes...
+
+[10]
+sta=41915
+dat1=..eh, en la trastienda?
+
+[11]
+sta=43250
+dat1=Eh, voy a tratar de resistir
+dat2=hasta que alguien...revise.
+
+[12]
+sta=46905
+dat1=Tal vez no sea tan malo.
+
+[13]
+sta=49100
+dat1=Sí s-s-s-siempre tuve dudas de lo que
+dat2=había adentro de esas cabezas vacías...
+
+[14]
+sta=52380
+dat1=..allá atrás.
+
+[15]
+sta=53660
+end=54100
+dat1=Ya sabe.
+
+[16]
+sta=56345
+end=56850
+dat1=Oh no.
+
+|=========================================|

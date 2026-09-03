@@ -1,0 +1,348 @@
+### vo_phoneguy_call1 Subtitles (de-DE German) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18900
+dat1=Hallo, hallo?
+
+[2]
+sta=21740
+dat1=Ähh... Ich wollte Ihnen
+dat2=eine Nachricht aufsprechen,
+
+[3]
+sta=24740
+dat1=damit Sie sich in Ihrer
+dat2=ersten Nacht besser zurechtfinden.
+
+[4]
+sta=27540
+dat1=Ehmm... ich habe nämlich
+dat2=vor Ihnen in diesem Büro gearbeitet.
+
+[5]
+sta=31050
+dat1=Ich...bin gerade dabei, meine letzte Woche
+dat2=hier abzuschließen, deshalb...
+
+[6]
+sta=35320
+dat1=..weiß ich,
+dat2=dass das alles etwas viel sein kann.
+
+[7]
+sta=37750
+dat1=Aber ich möchte Ihnen sagen, dass Sie sich
+dat2=keinerlei Sorgen machen sollten.
+
+[8]
+sta=40720
+dat1=Sie werden das schon packen.
+
+[9]
+sta=42400
+dat1=Lassen Sie uns einfach zusehen,
+
+[10]
+sta=44420
+dat1=dass Sie gut durch die erste Woche
+dat2=kommen, okay?
+
+[11]
+sta=47430
+dat1=Ähm, wo legen wir denn mal los?
+
+[12]
+sta=48370
+dat1=Zunächst soll ich Ihnen einleitend
+dat2=ein Grußwort des
+
+[13]
+sta=51535
+dat1=Unternehmens vorlesen.
+
+[14]
+sta=53090
+dat1=Ehmm, d-das ist so vorgeschrieben,
+dat2=irgendwie, wissen Sie?
+
+[15]
+sta=55840
+dat1=Um, "Herzlich willkommen
+dat2=bei Freddy Fazbear's Pizza.
+
+[16]
+sta=58850
+dat1="Ein zauberhafter Ort sowohl für Kinder
+dat2=als auch Erwachsene,
+
+[17]
+sta=61930
+dat1="wo Fantasie und Spaß
+dat2=mit Leben gefüllt werden.
+
+[18]
+sta=64610
+dat1="Fazbear Entertainment
+dat2=übernimmt keinerlei Haftung
+
+[19]
+sta=66790
+dat1="für Sach- oder Personenschäden.
+
+[20]
+sta=69140
+dat1="Nach Feststellung
+dat2=eines Sachschadens oder Todesfalls
+
+[21]
+sta=71610
+dat1="wird eine Vermisstenanzeige gestellt.
+dat2=Dies geschiet innerhalb von 90 Tagen,
+
+[22]
+sta=74450
+dat1="oder sobald das Gebäude
+dat2=und das umliegende Gelände
+
+[23]
+sta=76225
+dat1="gründlich gereinigt und mit
+dat2=Chlor behandelt wurden,
+
+[24]
+sta=78300
+dat1="und die Teppiche getauscht wurden."
+
+[25]
+sta=80100
+dat1=Blah blah blah.
+
+[26]
+sta=81350
+dat1=Ich sehe ein,
+dat2=dass das vielleicht etwas übel klingt.
+
+[27]
+sta=83670
+dat1=Aber Sie brauchen sich
+dat2=wirklich keine Sorgen zu machen.
+
+[28]
+sta=86390
+dat1=Ähm, die Animatronik-Figuren hier...
+dat2=..können nachts ein wenig komisch werden,
+
+[29]
+sta=90920
+dat1=wer will es ihnen verübeln?
+
+[30]
+sta=92920
+dat1=Wenn ich dazu verdonnert wäre,
+
+[31]
+sta=94700
+dat1=20 Jahre lang diese
+dat2=dämlichen Lieder zu singen
+
+[32]
+sta=97090
+dat1=und nie baden könnte?
+
+[33]
+sta=98530
+dat1=Ich wäre nachts wahrscheinlich
+dat2=auch ein wenig reizbar.
+
+[34]
+sta=101060
+dat1=Also, denken Sie daran,
+
+[35]
+sta=102210
+dat1=dass diese Figuren in den Herzen der Kinder
+dat2=eine besondere Rolle spielen.
+
+[36]
+sta=105180
+dat1=Und wir müssen ihnen mit
+dat2=etwas Respekt begegnen.
+
+[37]
+sta=107340
+dat1=Nicht wahr? Okay.
+
+[38]
+sta=109150
+dat1=Wundern Sie sich also nicht darüber,
+
+[39]
+sta=110650
+dat1=dass die Figuren gelegentlich
+dat2=etwas durch die Gegend wandern.
+
+[40]
+sta=114020
+dat1=Ähm, sie bleiben nachts in einer
+dat2=Art Freilaufmodus.
+
+[41]
+sta=117910
+dat1=Äh... irgendwas an ihren Servos blockiert,
+dat2=wenn sie zu lange ausgeschaltet bleiben.
+
+[42]
+sta=122660
+dat1=Äh, früher durften sie auch
+dat2=tagsüber durch die Gegend laufen.
+
+[43]
+sta=125470
+dat1=Aber dann gab es "Den Biss von '87."
+
+[44]
+sta=128400
+dat1=Ja.
+
+[45]
+sta=129770
+dat1=F-Faszinierend, dass der menschliche Körper
+dat2=ohne Stirnhirnlappen leben kann,
+
+[46]
+sta=133470
+dat1=wissen Sie?
+
+[47]
+sta=134400
+dat1=Okay, dann zu Ihrer eigenen Sicherheit,
+dat2=die einzige echte Gefahr, der Sie
+
+[48]
+sta=138520
+dat1=als Nachtwächter hier ausgesetzt sind,
+dat2=falls man davon über sprechen kann,
+
+[49]
+sta=140700
+dat1=sind diese Figuren,
+
+[50]
+sta=142800
+dat1=äh, wenn sie Sie
+dat2=nach den Öffnungszeiten sehen sollten,
+
+[51]
+sta=145460
+dat1=werden sie Sie wahrscheinlich nicht
+dat2=als einen Mensch ausmachen.
+
+[52]
+sta=148900
+dat1=Sie werden Sie höchstwahrscheinlich
+dat2=für ein Metall-Endoskelett
+
+[53]
+sta=152200
+dat1=ohne Kostüm halten.
+
+[54]
+sta=153940
+dat1=Und da das hier bei
+dat2=Freddy Fazbear's Pizza nicht erlaubt ist,
+
+[55]
+sta=157600
+dat1=werden sie wahrscheinlich versuchen...
+
+[56]
+sta=159545
+dat1=..Sie in einen
+dat2="Freddy Fazbear"-Anzug zu zwingen.
+
+[57]
+sta=163560
+dat1=Ähm... das wäre an sich auch nicht schlimm
+dat2=wären die Anzüge selbst nicht mit
+
+[58]
+sta=168110
+dat1=Querstreben, Kabeln
+dat2=und Animatronikgeräten gefüllt,
+
+[59]
+sta=172280
+dat1=insbesondere im Gesichtsbereich.
+
+[60]
+sta=174460
+dat1=Sie können sich wahrscheinlich vorstellen,
+dat2=dass der Versuch, Ihren Kopf
+
+[61]
+sta=176300
+dat1=mit Gewalt
+dat2=in einen dieser Anzüge zu pressen,
+
+[62]
+sta=178250
+dat1=etwas unangenehm enden könnte...
+
+[63]
+sta=180830
+dat1=..oder sogar tödlich.
+
+[64]
+sta=182410
+dat1=Äh, der einzige Teil von Ihnen,
+
+[65]
+sta=183600
+dat1=der dann voraussichtlich
+dat2=jemals wieder das Tageslicht sehen wird,
+
+[66]
+sta=185110
+dat1=wären Ihre Augäpfel und Zähne
+
+[67]
+sta=186510
+dat1=wenn diese aus der
+dat2=Vorderseite der Maske herausquillen, heh.
+
+[68]
+sta=189300
+dat1=Tja, sowas sagt einem keiner,
+dat2=wenn man seinen Vertrag unterschreibt.
+
+[69]
+sta=192390
+dat1=Aber hey, der erste Tag
+dat2=sollte ein Kinderspiel werden.
+
+[70]
+sta=194370
+dat1=Wir können dann morgen darüber quatschen.
+
+[71]
+sta=195920
+dat1=Äh, prüfen Sie diese Kameras,
+
+[72]
+sta=197080
+dat1=und schließen Sie die Türen nur dann,
+dat2=wenn das unbedingt sein muss.
+
+[73]
+sta=200990
+dat1=Wir müssen schließlich Strom sparen.
+
+[74]
+sta=202680
+end=203550
+dat1=Okay dann, gute Nacht.
+
+|=========================================|

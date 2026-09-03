@@ -1,0 +1,83 @@
+### vo_phoneguy_call4 Subtitles (de-DE German) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+
+[1]
+sta=17655
+dat1=Hallo, hallo! Hey!
+dat2=Hey wow, schon der vierte Tag!
+
+[2]
+sta=21060
+dat1=Ich wusste, Sie würden es schaffen.
+dat2=Äh, okay, hör'n Sie mal.
+
+[3]
+sta=23345
+dat1=Äh, vielleicht bin ich morgen nicht da,
+dat2=um Ihnen eine Nachricht zu hinterlassen.
+
+[4]
+sta=26255
+dat1=Äh, es-es war eine miese Nacht hier...
+dat2=..für mich.
+
+[5]
+sta=30510
+dat1=Ähm, i-ich bin irgendwie froh, dass ich die
+dat2=Nachrichten an Sie aufgezeichnet habe, ähm
+
+[6]
+sta=34990
+dat1=Äh, als ich das gemacht habe.
+
+[7]
+sta=36085
+dat1=Äh, hör'n Sie,
+dat2=können Sie mir einen Gefallen tun?
+
+[8]
+sta=38070
+dat1=Äh, vielleicht haben Sie irgendwann mal
+
+[9]
+sta=39665
+dat1=etwas Zeit, äh,
+dat2=in den Anzügen nachzusehen...
+
+[10]
+sta=41915
+dat1=..die, äh, im Raum hinter dem Laden sind?
+
+[11]
+sta=43250
+dat1=Äh, ich werde versuchen, so lange
+dat2=auszuharren, bis jemand...nachsieht.
+
+[12]
+sta=46905
+dat1=Vielleicht wird es gar nicht
+dat2=so schlimm werden.
+
+[13]
+sta=49100
+dat1=Naja, i-i-i-ich hab mich immer gefragt,
+dat2=was in all diesen leeren Köpfen ist...
+
+[14]
+sta=52380
+dat1=..die da hinten sind.
+
+[15]
+sta=53660
+end=54100
+dat1=Wissen Sie.
+
+[16]
+sta=56345
+end=56850
+dat1=Oh nein.
+
+|=========================================|

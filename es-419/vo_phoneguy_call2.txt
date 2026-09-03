@@ -1,0 +1,135 @@
+### vo_phoneguy_call2 Subtitles (es-419 Spanish Latin America) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18680
+dat1=Eh, ¿hola? ¿hola?
+
+[2]
+sta=20990
+dat1=Eh, bueno, si está escuchando esto
+dat2=es porque logró avanzar al segundo día,
+
+[3]
+sta=24140
+dat1=eh, ¡felicidades!
+
+[4]
+sta=25730
+dat1=N-No hablaré demasiado
+dat2=esta vez ya que...
+
+[5]
+sta=28610
+dat1=..Freddy y sus amigos tienden a volverse
+dat2=más activos a medida que avanza la semana.
+
+[6]
+sta=32910
+dat1=Eh, podría ser una buena idea
+dat2=mirar esas cámaras mientras hablo, 
+
+[7]
+sta=36770
+dat1=solo para asegurarse de que todos 
+dat2=están en su sitio, ya sabe.
+
+[8]
+sta=40135
+dat1=Eh, curiosamente,
+
+[9]
+sta=41790
+dat1=el mismo Freddy no sale de su zona
+dat2=muy a menudo.
+
+[10]
+sta=44725
+dat1=E-Escuché que se vuelve mucho
+dat2=más activo en la oscuridad.
+
+[11]
+sta=47775
+dat1=Así que... ¡ey!
+
+[12]
+sta=49540
+dat1=Supongo que esa es otra razón
+dat2=para no quedarse sin energía, ¿verdad?
+
+[13]
+sta=53029
+dat1=Eh, también quiero que
+dat2=tome en cuenta las luces de su puerta.
+
+[14]
+sta=57490
+dat1=Eh, hay puntos ciegos
+dat2=en las perspectivas de su cámara,
+
+[15]
+sta=60980
+dat1=y esos puntos ciegos se sitúan
+dat2=justo afuera de las puertas. 
+
+[16]
+sta=64745
+dat1=Así que s-si no puede encontrar algo...
+dat2=..o a alguien en sus cámaras,
+
+[17]
+sta=69755
+dat1=eh, revise las luces de la puerta.
+
+[18]
+sta=71730
+dat1=Eh, es posible que solo tenga
+dat2=unos segundos para reaccionar.
+
+[19]
+sta=74860
+dat1=Eh, n-no es que esté
+dat2=en peligro, nada que ver.
+
+[20]
+sta=77790
+dat1=N-No estoy insinuando eso.
+
+[21]
+sta=80270
+dat1=Eh, también, eh-h, revise la cortina de
+dat2=la cueva del pirata c-cada cierto tiempo.
+
+[22]
+sta=85325
+dat1=Parece que el personaje de allí
+dat2=es el único que se vuelve...
+
+[23]
+sta=88275
+dat1=..más activo si las cámaras no prenden
+dat2=por tiempo prolongado.
+
+[24]
+sta=92415
+dat1=Eh, supongo
+dat2=que no le gusta que lo observen.
+
+[25]
+sta=94690
+dat1=No lo sé.
+dat2=Eh, de todos modos,
+
+[26]
+sta=96470
+dat1=estoy seguro de que tiene
+dat2=todo bajo control,
+
+[27]
+sta=98720
+end=99850
+dat1=eh, hablaremos pronto.
+
+|=========================================|

@@ -1,0 +1,344 @@
+### vo_phoneguy_call1 Subtitles (es-419 Spanish Latin America) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18900
+dat1=Hola, ¿hola?
+
+[2]
+sta=21740
+dat1=Eh... quería grabar
+dat2=un mensaje
+
+[3]
+sta=24740
+dat1=para facilitarle las cosas
+dat2=en su primera noche.
+
+[4]
+sta=27540
+dat1=Mmm... La verdad es que yo trabajaba
+dat2=en esa oficina antes que usted.
+
+[5]
+sta=31050
+dat1=De hecho...ya terminé mi última semana,
+dat2=así que...
+
+[6]
+sta=35320
+dat1=..es posible que se sienta abrumado.
+
+[7]
+sta=37750
+dat1=Pero yo estoy aquí para decirle
+dat2=que no tiene de qué preocuparse.
+
+[8]
+sta=40720
+dat1=Eh, le irá bien.
+
+[9]
+sta=42400
+dat1=Así que, concéntrese en 
+
+[10]
+sta=44420
+dat1=superar
+dat2=su primera semana, ¿de acuerdo?
+
+[11]
+sta=47430
+dat1=Bueno, veamos. 
+
+[12]
+sta=48370
+dat1=Primero, se supone que debo leer
+dat2=un saludo introductorio
+
+[13]
+sta=51535
+dat1=de la compañía.
+
+[14]
+sta=53090
+dat1=Eh, e-es una especie de asunto legal,
+dat2=ya sabes.
+
+[15]
+sta=55840
+dat1=Mmm,
+dat2="Bienvenido a Freddy Fazbear's Pizza.
+
+[16]
+sta=58850
+dat1="Un lugar mágico para niños
+dat2=y adultos por igual,
+
+[17]
+sta=61930
+dat1="donde la fantasía y diversión cobran vida.
+
+[18]
+sta=64610
+dat1="Fazbear Entertainment
+dat2=no se hace responsable
+
+[19]
+sta=66790
+dat1="por daños materiales o personales.
+
+[20]
+sta=69140
+dat1="Si se descubre
+dat2=algún daño o muerte,
+
+[21]
+sta=71610
+dat1="se reportará a la persona desaparecida
+dat2=en un plazo de 90 días,
+
+[22]
+sta=74450
+dat1="o tan pronto se hayan limpiado y saneado
+
+[23]
+sta=76225
+dat1="por completo la propiedad
+dat2=e instalaciones,
+
+[24]
+sta=78300
+dat1="y se hayan sustituido las alfombras".
+
+[25]
+sta=80100
+dat1=Blablablá.
+
+[26]
+sta=81350
+dat1=Sé que esto puede sonar mal.
+
+[27]
+sta=83670
+dat1=Pero en realidad,
+dat2=no hay nada de qué preocuparse.
+
+[28]
+sta=86390
+dat1=Ah, los animatrónicos de aquí...
+dat2=..se vuelven un poco raros por la noche,
+
+[29]
+sta=90920
+dat1=pero, ¿qué culpa tienen? ninguna.
+
+[30]
+sta=92920
+dat1=Si me obligaran a cantar
+
+[31]
+sta=94700
+dat1=durante 20 años
+dat2=esas estúpidas canciones
+
+[32]
+sta=97090
+dat1=y sin bañarme,
+
+[33]
+sta=98530
+dat1=seguramente estaría un poco irritable
+dat2=por la noche también.
+
+[34]
+sta=101060
+dat1=Así que recuerda,
+
+[35]
+sta=102210
+dat1=estos personajes ocupan un lugar especial
+dat2=en el corazón de los niños
+
+[36]
+sta=105180
+dat1=y tenemos que mostrarles
+dat2=respeto. 
+
+[37]
+sta=107340
+dat1=¿De acuerdo? Bien.
+
+[38]
+sta=109150
+dat1=Así que tenga precaución,
+dat2=los personajes suelen deambular un poco.
+
+[39]
+sta=114020
+dat1=Eh, permanecen en una especie de
+dat2=modalidad ambulante por la noche.
+
+[40]
+sta=117910
+dat1=Eh... sus servomotores
+dat2=se bloquean
+
+[41]
+sta=120520
+dat1=si permanecen apagados por mucho tiempo.
+
+[42]
+sta=122660
+dat1=Uh, se les solía permitir
+dat2=que pasearan durante el día también.
+
+[43]
+sta=125470
+dat1=Pero luego sucedió "La Mordida del 87".
+
+[44]
+sta=128400
+dat1=Sí.
+
+[45]
+sta=129770
+dat1=E-Es increíble que el cuerpo humano
+dat2=pueda vivir sin el lóbulo frontal,
+
+[46]
+sta=133470
+dat1=¿sabes?
+
+[47]
+sta=134400
+dat1=Uh, ahora con respecto a su seguridad,
+dat2=el único riesgo real para usted
+
+[48]
+sta=138520
+dat1=como vigilante nocturno aquí,
+dat2=si es que hay,
+
+[49]
+sta=140700
+dat1=es el hecho de que estos personajes,
+
+[50]
+sta=142800
+dat1=uh, si llegan a verlo
+dat2=después del horario laboral,
+
+[51]
+sta=145460
+dat1=quizás no puedan reconocerlo
+dat2=como persona.
+
+[52]
+sta=148900
+dat1=Lo más probable es que lo vean
+dat2=como un endoesqueleto de metal
+
+[53]
+sta=152200
+dat1=sin su traje.
+
+[54]
+sta=153940
+dat1=Y ya que eso contradice las reglas
+dat2=de Freddy Fazbear's Pizza,
+
+[55]
+sta=157600
+dat1=probablemente intentarán...
+
+[56]
+sta=159545
+dat1=..obligarlo a que se meta
+dat2=dentro de un traje de Freddy Fazbear.
+
+[57]
+sta=163560
+dat1=Mmm... Eso no sería tan malo
+
+[58]
+sta=166210
+dat1=si los propios trajes
+dat2=no estuvieran repletos
+
+[59]
+sta=168110
+dat1=de travesaños, cables
+dat2=y artefactos animatrónicos, 
+
+[60]
+sta=172280
+dat1=especialmente alrededor del área facial.
+
+[61]
+sta=174460
+dat1=Así que ya puede imaginarse
+dat2=que mantener la cabeza
+
+[62]
+sta=176300
+dat1=fuertemente presionada adentro,
+dat2=podría causar un poco de incomodidad...
+
+[63]
+sta=180830
+dat1=..y la muerte.
+
+[64]
+sta=182410
+dat1=Uh, las únicas partes suyas
+
+[65]
+sta=183600
+dat1=que podrían probablemente
+dat2=volver a ver la luz del día
+
+[66]
+sta=185110
+dat1=serían sus globos oculares y dientes
+
+[67]
+sta=186510
+dat1=cuando sobresalgan
+dat2=del anverso de la máscara, je.
+
+[68]
+sta=189300
+dat1=S-Sí, no le dicen
+dat2=estas cosas cuando firma.
+
+[69]
+sta=192390
+dat1=Pero bueno, el primer día
+dat2=debería ser pan comido.
+
+[70]
+sta=194370
+dat1=Mañana charlaremos.
+
+[71]
+sta=195920
+dat1=Uh, revise esas cámaras,
+
+[72]
+sta=197080
+dat1=y recuerde cerrar las puertas
+dat2=solo si es absolutamente necesario.
+
+[73]
+sta=200990
+dat1=Debe ahorrar energía.
+
+[74]
+sta=202680
+end=203550
+dat1=Bien, buenas noches.
+
+|=========================================|

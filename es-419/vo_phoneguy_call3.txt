@@ -1,0 +1,96 @@
+### vo_phoneguy_call3 Subtitles (es-419 Spanish Latin America) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=19725
+dat1=¡Hola, hola!
+dat2=¡Ey! ¡Lo está haciendo bien!
+
+[2]
+sta=22650
+dat1=Eh, la mayoría no dura tanto tiempo.
+
+[3]
+sta=25090
+dat1=Quiero decir, ya sabe,
+
+[4]
+sta=26585
+dat1=s-suelen dedicarse
+dat2=a otras cosas a estas alturas.
+
+[5]
+sta=29425
+dat1=Eh, eh, no estoy insinuando que murieron.
+dat2=E-E-Eso no es lo que quise decir.
+
+[6]
+sta=34035
+dat1=Eh, de todos modos s-será mejor que
+dat2=no le quite mucho de su tiempo.
+
+[7]
+sta=37380
+dat1=Eh, las cosas empiezan a ponerse serias.
+
+[8]
+sta=39725
+dat1=Eh, e-e-ey escuche, y-yo tengo una idea.
+
+[9]
+sta=42705
+dat1=Si lo atrapan
+
+[10]
+sta=44275
+dat1=y-y quiere evitar que lo metan
+dat2=en un traje de Freddy,
+
+[11]
+sta=47691
+dat1=eh, ¡intente hacerse el muerto!
+
+[12]
+sta=49580
+dat1=Ya sabe, aflójese.
+
+[13]
+sta=51255
+dat1=Para que exista la posibilidad de que,
+
+[14]
+sta=52480
+dat1=eh, tal vez piensen
+dat2=que es un traje vacío.
+ 
+[15]
+sta=56230
+dat1=Eh, pero si piensan
+dat2=que es un traje vacío
+
+[16]
+sta=58580
+dat1=podrían intentar...
+dat2=..meterlo un endoesqueleto de metal.
+ 
+[17]
+sta=62250
+dat1=Me pregunto cómo funcionaría.
+
+[18]
+sta=63945
+dat1=S-Sí, no importa, olvídelo.
+dat2=E-Es mejor que no lo atrapen.
+
+[19]
+sta=68340
+dat1=Mmm... b-bien, l-lo dejaré en sus manos.
+
+[20]
+sta=71110
+end=72400
+dat1=Nos vemos en el otro lado.
+
+|=========================================|

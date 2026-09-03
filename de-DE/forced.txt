@@ -1,0 +1,237 @@
+### Forced Subtitles (de-DE German) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=9
+dat1=HILFE GESUCHT
+dat2=Freddy Fazbear's Pizza
+
+dat3=Bei Familien beliebte Pizzeria sucht
+dat4=Wachpersonal für Nachtschicht.
+
+dat5=Mitternacht bis 6 Uhr.
+dat6=
+
+dat7=Überwachen der Kameras,
+dat8=
+
+dat9=Gewährleistung der Sicherheit
+dat10=der Ausrüstung und Animatronikfiguren.
+
+dat11=Keine Verantwortung
+dat12=für Verletzungen/Verstümmelungen.
+
+dat13=120 $ pro Woche.
+dat14=
+
+dat15=Bei Interesse anrufen:
+dat16=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=ICH BINS ICH BINS
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=ICH BINS
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-'SCHULDIGUNG!-
+dat2=AUSSER BETRIEB
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=6
+dat1=SICHERHEITSREGELN
+dat2=1. Nicht rennen.
+
+dat3=2. Nicht brüllen.
+dat4=3. Nicht schreien.
+
+dat5=4. Nicht auf den Boden kacken.
+dat6=5. Immer schön bei Mama bleiben.
+
+dat7=6. Freddy nicht berühren.
+dat8=7. Nicht schlagen.
+
+dat9=8. Vor Einbruch der Dunkelheit
+dat10=ab nach Hause.
+
+dat11=danke, Geschäftsleitung
+dat12=
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=11
+dat1=Kinder bei Pizzeria verschwunden -
+dat2=- keine Leichen gefunden.
+
+dat3=Zwei Kinder aus dem Ort
+dat4=wurden dem Vernehmen nach
+
+dat5=spät am Abend in einen Raum hinter
+dat6=Freddy Fazbear's Pizza gelockt.
+
+dat7=Dies geschah in der Nacht vom 26. Juni.
+dat8=
+
+dat9=Während der dafür verantwortliche Mann
+dat10=auf den Bildern der Videoüberwachung klar
+
+dat11=zu erkennen war und am folgenden Morgen
+dat12=festgenommen werden konnte,
+
+dat13=fehlt von den Kindern jede Spur.
+dat14=
+
+dat15=Es wird davon ausgegangen,
+dat16=dass sie tot sind.
+
+dat17=Die Polizei vermutet,
+dat18=
+
+dat19=dass sich der mutmaßliche Täter
+dat20=als Firmenmaskottchen verkleidet hat,
+
+dat21=um das Vertrauen der Kinder zu gewinnen.
+dat22=
+
+// article 2
+[70]
+steps=8
+dat1=Ortsansässige Pizzeria wegen
+dat2=Hygienemängeln von Schließung bedroht.
+
+dat3=Dem Lokal Freddy Fazbear's Pizza
+dat4=droht erneut die Schließung durch
+
+dat5=das Gesundheitsamt aufgrund von
+dat6=Berichten über üble Gerüche, die
+
+dat7=aus den beliebten
+dat8=Tiermaskottchen kommen.
+
+dat9=Die Polizei wurde alarmiert
+dat10=nachdem Eltern um die Augen
+
+dat11=und Münder der Maskottchen
+dat12=Verschmutzungen aufgefallen waren,
+
+dat13=die wie Blut und schleimiger
+dat14=Auswurf aussahen.
+
+dat15=Ein Elternteil verglich sie mit
+dat16="wiederbelebten Kadavern".
+
+// article 3
+[71]
+steps=9
+dat1=Jetzt bereits fünf Kinder als vermisst
+dat2=gemeldet. Verdächtiger verurteilt.
+
+dat3=Inzwischen werden fünf Kinder
+dat4=
+
+dat5=mit dem Vorfall bei Freddy Fazbear's Pizza
+dat6=in Verbindung gebracht,
+
+dat7=wo ein Mann in einem Zeichentrick-Kostüm
+dat8=die Kinder in ein Hinterzimmer gelockt hat.
+
+dat9=Während der Verdächtige angeklagt wurde,
+dat10=
+
+dat11=wurden die Leichen der Kinder
+dat12=nie aufgefunden.
+
+dat13=Seitdem kämpft Freddy Fazbear's Pizza
+dat14=vergeblich darum,
+
+dat15=Familien davon zu überzeugen, wieder
+dat16=in die Pizzeria zu kommen.
+
+dat17="Es ist eine Tragödie."
+dat18=
+
+// article 4
+[72]
+steps=8
+dat1=Ortsansässige Pizzeria erklärt, zum
+dat2=Jahresende zu schließen.
+
+dat3=Nach langem Kampf um das wirtschaftliche
+dat4=Überleben, den das Unternehmen nach
+
+dat5=der Tragödie geführt hat, die sich dort
+dat6=vor vielen Jahren ereignete,
+
+dat7=kündigte Freddy Fazbear's Pizza jetzt an,
+dat8=dass Ende des Jahres Schluss ist.
+
+dat9=Trotz jahrelanger Suche nach einem Käufer
+dat10=scheint kein anderes Unternehmen
+
+dat11=bereit zu sein, mit dem Firmennamen
+dat12=in Verbindung gebracht zu werden.
+
+dat13="Diese Figuren werden weiterleben.
+dat14=
+
+dat15="In den Herzen der Kinder werden diese
+dat16=Figuren weiterleben." - Der Geschäftsführer
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=Gut gemacht, Junge!
+dat2=(bis nächste Woche)
+
+dat3=HINWEIS:
+dat4=besonders geschätzter Mitarbeiter
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=4
+dat1=Gut gemacht, Junge!
+dat2=
+
+dat3=(Dafür hast Du Dir
+dat4=ein paar Überstunden verdient!)
+
+dat5=HINWEIS: Mitarbeiter des Monats
+dat6=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=5
+dat1=KÜNDIGUNGSSCHREIBEN
+dat2=(Du bist entlassen)
+
+dat3=GRUND: Manipulation
+dat4=der Animatronikfiguren.
+
+dat5=Allgemeiner Mangel an Professionalität.
+dat6=Schlechter Geruch.
+
+dat7=danke, Geschäftsleitung.
+dat8=
+
+|=========================================|

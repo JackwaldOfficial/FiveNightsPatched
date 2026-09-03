@@ -1,0 +1,157 @@
+### vo_phoneguy_call2 Subtitles (de-DE German) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18680
+dat1=Äh, hallo? Hallo?
+
+[2]
+sta=20990
+dat1=Ähm, ja, falls Sie das hier jetzt hören
+dat2=und es bis Tag zwei geschafft haben,
+
+[3]
+sta=24140
+dat1=naja dann... gratuliere!
+
+[4]
+sta=25730
+dat1=I-Ich werde dieses Mal
+dat2=auch nicht so lange reden, da...
+
+[5]
+sta=28610
+dat1=..Freddy und seine Freunde
+dat2=in der Regel aktiver werden,
+
+[6]
+sta=30855
+dat1=je weiter die Woche voranschreitet.
+
+[7]
+sta=32910
+dat1=Ähh, vielleicht lohnt es sich, mit einem
+dat2=Auge die Kameras im Blick zu behalten,
+
+[8]
+sta=35610
+dat1=während ich spreche,
+
+[9]
+sta=36770
+dat1=um sicherzustellen, dass jeder
+dat2=an seinem Platz ist, nicht wahr.
+
+[10]
+sta=40135
+dat1=Äh, interessanterweise
+
+[11]
+sta=41790
+dat1=verlässt Freddy selbst die Bühne
+dat2=eher selten.
+
+[12]
+sta=44725
+dat1=I-Ich hab allerdings gehört, dass er
+dat2=im Dunkeln deutlich aktiver wird.
+
+[13]
+sta=47775
+dat1=Deshalb... naja!
+
+[14]
+sta=49540
+dat1=Ich denke, das ist ein Grund mehr, darauf zu
+dat2=achten, dass immer Strom da ist, nicht wahr?
+
+[15]
+sta=53029
+dat1=Äh, ich möchte auch nochmal
+dat2=darauf hinweisen,
+
+[16]
+sta=54825
+dat1=wie wichtig es ist,
+dat2=dass Sie die Türbeleuchtung verwenden.
+
+[17]
+sta=57490
+dat1=Äh, die Kamerabilder
+dat2=erfassen nicht jede Ecke.
+
+[18]
+sta=60980
+dat1=Und diese Stellen befinden sich
+dat2=genau vor Ihren Türen.
+
+[19]
+sta=64745
+dat1=Sollten S-Sie irgendetwas...
+
+[20]
+sta=67560
+dat1=..oder irgendjemanden
+dat2=auf den Kameras nicht sehen können,
+
+[21]
+sta=69755
+dat1=äh, prüfen Sie am besten
+dat2=direkt die Türbeleuchtung.
+
+[22]
+sta=71730
+dat1=Äh, es kann sein, dass Sie nur wenige
+dat2=Sekunden Zeit haben, zu reagieren.
+
+[23]
+sta=74860
+dat1=Äh, S-Sie befinden sich natürlich nicht
+dat2=in Gefahr, oder so.
+
+[24]
+sta=77790
+dat1=D-Das will ich damit nicht gesagt haben.
+
+[25]
+sta=80270
+dat1=Äh, was ich noch sagen wollte,
+
+[26]
+sta=81780
+dat1=schauen Sie ab und z-zu nach dem Vorhang
+dat2=in der P-Piratenbucht.
+
+[27]
+sta=85325
+dat1=Die Figur dort ist etwas sonderlich,
+dat2=das heißt, sie wird...
+
+[28]
+sta=88275
+dat1=..aktiver, wenn die Kamera längere
+dat2=Zeit abgeschaltet bleibt.
+
+[29]
+sta=92415
+dat1=Äh, ich könnte mir vorstellen, dass
+dat2=sie sich nicht gerne beobachten lässt.
+
+[30]
+sta=94690
+dat1=Weiß nicht.
+dat2=Na, egal,
+
+[31]
+sta=96470
+dat1=Ich bin mir sicher,
+dat2=dass Sie alles im Griff haben,
+
+[32]
+sta=98720
+end=99850
+dat1=ja dann, bis bald.
+
+|=========================================|
