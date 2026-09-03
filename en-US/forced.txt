@@ -27,19 +27,19 @@ dat14=1-555-FAZ-FAZBEAR
 
 |=========================================|
 // graffiti in CAM 4A
-[68]
+[/68]
 steps=1
 dat1=IT'S ME IT'S ME
 dat2=
 
 // graffiti in CAM 1C
-[73]
+[/73]
 steps=1
 dat1=IT'S ME
 dat2=
 
 // sign in CAM 1C
-[26]
+[/26]
 steps=1
 dat1=-SORRY!-
 dat2=OUT OF ORDER
