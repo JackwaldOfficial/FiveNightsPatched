@@ -3,7 +3,7 @@
 |=========================================|
 // classified advertisement in newspaper
 [4-New Game Intro (ad)]
-steps=1
+steps=9
 dat1=HILFE GESUCHT
 dat2=Freddy Fazbear's Pizza
 
