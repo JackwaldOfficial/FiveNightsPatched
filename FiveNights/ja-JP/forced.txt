@@ -1,4 +1,4 @@
-### Forced Subtitles (ja-JP Japanese) ###
+﻿### Forced Subtitles (ja-JP Japanese) ###
 ### Translation provided by Clickteam LLC ###
 |=========================================|
 // classified advertisement in newspaper
