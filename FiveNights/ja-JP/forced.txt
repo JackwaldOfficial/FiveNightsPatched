@@ -1,0 +1,213 @@
+### Forced Subtitles (ja-JP Japanese) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=8
+dat1=スタッフ募集中
+dat2=Freddy Fazbear's Pizza.
+
+dat3=人気のピザレストランで
+dat4=夜勤の警備員を募集しています。
+
+dat5=深夜12時から朝6時まで。
+dat6=
+
+dat7=監視カメラの確認をして
+dat8=設備とマスコットロボの安全を管理して頂きます。
+
+dat9=怪我や身体の欠損については
+dat10=責任を負いません。
+
+dat11=給与 ＄120/週
+dat12=
+
+dat13=応募は以下の番号まで。
+dat14=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=私です 私です
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=私です
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-すいません！-
+dat2=故障中です
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=5
+dat1=お店での約束
+dat2=1. 走らない
+
+dat3=2. お話は静かに
+dat4=3. 叫ばない
+
+dat5=4. 床にうんちしない
+dat6=5. お母さんから離れない
+
+dat7=6. フレディにさわらない
+dat8=7. 叩かない
+
+dat9=8. 暗くなる前に帰ろう
+dat10=マネージメント部門より
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=9
+dat1=ピザレストランで消えた子供達ー
+dat2=遺体いまだ見つからず。
+
+dat3=6月26日の夜
+dat4=地元の子供二名が
+
+dat5=夜間営業を行っていた
+dat6=Freddy Fazbear's Pizzaで
+
+dat7=バックヤードに連れ去られたという。
+dat8=
+
+dat9=監視カメラの映像から
+dat10=容疑者の男が特定され
+
+dat11=翌朝には
+dat12=身柄が拘束された。
+
+dat13=被害に遭った子供達は発見されておらず
+dat14=既に亡くなったと考えられる。
+
+dat15=警察は容疑者の男が
+dat16=店のマスコットに扮して
+
+dat17=子供達の関心を引いたと考えている。
+dat18=
+
+// article 2
+[70]
+steps=8
+dat1=地元ピザレストラン
+dat2=衛生問題で閉店の危機。
+
+dat3=Freddy Fazbear's Pizzaが
+dat4=またもや閉店の危機に瀕している。
+
+dat5=長年親しまれた
+dat6=動物マスコットキャラから
+
+dat7=異臭がするとの報告を受けた
+dat8=保健福祉省の指導による。
+
+dat9=保護者達から
+dat10=
+
+dat11=マスコットの目や口の周辺に
+dat12=血や体液のようなものが
+
+dat13=付着していると
+dat14=警察に通報があった。
+
+dat15=保護者のうちの一人は
+dat16=「動く死骸」のようだと語った。
+
+// article 3
+[71]
+steps=7
+dat1=子供五名が行方不明。
+dat2=容疑者に有罪判決。
+
+dat3=五名の被害者は
+dat4=Freddy Fazbear's Pizzaでマスコットキャラの
+
+dat5=扮装をした男による控室への
+dat6=連れ去り事件との関連が疑われている。
+
+dat7=容疑者は告発されたが
+dat8=被害者の遺体は見つかっていない。
+
+dat9=Freddy Fazbear's Pizzaは
+dat10=事件の発生以来
+
+dat11=家族連れの顧客を呼び戻そうと
+dat12=悪戦苦闘を続けてきた。
+
+dat13=「悲劇の日々でした」
+dat14=
+
+// article 4
+[72]
+steps=8
+dat1=地元ピザレストラン
+dat2=年末までに閉店か。
+
+dat3=長期に渡る営業継続の努力むなしく
+dat4=
+
+dat5=店内で起こった惨劇から
+dat6=長い年月を経て
+
+dat7=Freddy Fazbear's Pizzaは年内に
+dat8=営業終了することを発表した。
+
+dat9=一年に渡って買い手を探したが
+dat10=
+
+dat11=他社もこのレストランと関係を
+dat12=持ちたがらなかったようだ。
+
+dat13=「キャラクター達は
+dat14=
+
+dat15=「子供達の心の中で生き続けます
+dat16=キャラクター達は生き続けるのです」－CEO
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=お疲れ様！
+dat2=（それでは、また来週）
+
+dat3=備考: 貴重な従業員
+dat4=
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=3
+dat1=お疲れ様！
+dat2=(残業代を貰った！)
+
+dat3=備考: 月間優秀従業員
+dat4=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=4
+dat1=解雇通知
+dat2=（解雇されました）
+
+dat3=理由：キャラクターロボットの不正改造。
+dat4=不適切な勤務状況。異臭。
+
+dat5=敬具、マネージメント部
+dat6=
+
+|=========================================|

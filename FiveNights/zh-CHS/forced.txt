@@ -1,0 +1,213 @@
+### Forced Subtitles (zh-CHS Chinese Simplified) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=8
+dat1=招工
+dat2=Freddy Fazbear's Pizza
+
+dat3=家庭披萨店在寻找
+dat4=上夜班的保安人员。
+
+dat5=半夜12点到上午6点。
+dat6=
+
+dat7=监控摄像头，确保
+dat8=设备和电子动画人物的安全。
+
+dat9=不对伤害/肢解负责。
+dat10=
+
+dat11=每周$120。
+dat12=
+
+dat13=若要申请，请致电：
+dat14=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=是我 是我
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=是我
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-抱歉！-
+dat2=混乱不堪
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=5
+dat1=安全规则
+dat2=1. 不要乱跑。
+
+dat3=2. 不要喊叫。
+dat4=3. 不要尖叫。
+
+dat5=4. 不要在地板上排便。
+dat6=5. 待在妈妈身边。
+
+dat7=6. 不要触摸Freddy。
+dat8=7. 不要打人。
+
+dat9=8. 天黑前离开。
+dat10=谢谢你，管理人员
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=9
+dat1=孩子们在当地披萨店消失了 -
+dat2=- 尸体未找到。
+
+dat3=据报道，
+dat4=6月26日晚上，在深夜营业期间，
+
+dat5=两个当地孩子被引诱到
+dat2=Freddy Fazbear's Pizza的
+
+dat7=里屋。
+dat8=
+
+dat9=虽然视频监控
+dat10=识别出了责任人，
+
+dat11=并在次日早上
+dat12=将其逮捕，
+
+dat13=但却没有找到孩子们，
+dat14=据推测他们已经死亡。
+
+dat15=警方认为，疑犯装扮成
+dat16=公司吉祥物，
+
+dat17=从而取得孩子们的信任。
+dat18=
+
+// article 2
+[70]
+steps=8
+dat1=当地披萨店因卫生
+dat2=问题而面临关闭的威胁。
+
+dat3=当地披萨店，Freddy Fazbear's Pizza
+dat4=再次受到卫生部门的威胁，
+
+dat5=要求该店关闭，
+dat6=因为有报道称，
+
+dat7=这些备受喜爱的动物吉祥物
+dat8=散发出恶臭。
+
+dat9=据报道，家长们
+dat10=
+
+dat11=注意到吉祥物
+dat12=眼睛和嘴巴周围似乎有
+
+dat13=血液和粘液时
+dat14=联系了警方。
+
+dat15=一位家长将其比作
+dat16="复活的尸体"。
+
+// article 3
+[71]
+steps=7
+dat1=现已有五个孩子被报告失踪。
+dat2=疑犯被判有罪。
+
+dat3=现在，五个孩子被与
+dat4=Freddy Fazbear's Pizza的事件联系起来，
+
+dat5=在那里，一个男人装扮成卡通吉祥物，
+dat6=引诱他们进入里屋。
+
+dat7=虽然疑犯已被指控，
+dat8=但尸体却未找到。
+
+dat9=从那时起，Freddy Fazbear's Pizza
+dat10=就在打一场硬仗，
+
+dat11=说服家庭
+dat12=返回披萨店。
+
+dat13="这是个悲剧。"
+dat14=
+
+// article 4
+[72]
+steps=8
+dat1=当地披萨店宣称
+dat2=在年底关闭。
+
+dat3=在多年前的
+dat4=
+
+dat5=悲剧发生后，
+dat6=在对生意的长期艰难维持后，
+
+dat7=Freddy Fazbear's Pizza宣布，
+dat8=它将在年底关闭。
+
+dat9=尽管花了一年时间寻找买家，
+dat10=
+
+dat11=但很多公司似乎不愿意
+dat12=与这家公司产生联系。
+
+dat13="这些人物将继续存在下去。
+dat14=
+
+dat15="在孩子们的心中-
+dat16=这些人物将继续存在下去。" - 首席执行官
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=干得好，哥们儿！
+dat2=（下周见）
+
+dat3=备忘录：有价值的员工
+dat4=
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=3
+dat1=干得好，哥们儿！
+dat2=（你赚到加班费了！）
+
+dat3=备忘录：月度最佳员工
+dat4=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=4
+dat1=解雇通知
+dat2=（你被解雇了）
+
+dat3=原因：篡改电子动画。
+dat4=全面违反职业道德。名声。
+
+dat5=谢谢，管理人员
+dat6=
+
+|=========================================|

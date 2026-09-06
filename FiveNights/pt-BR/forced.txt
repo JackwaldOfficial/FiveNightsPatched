@@ -187,9 +187,6 @@ dat2=(até a semana que vem)
 dat3=OBSERVAÇÃO: funcionário valioso
 dat4=
 
-dat3=HINWEIS:
-dat4=besonders geschätzter Mitarbeiter
-
 // Night 6 paycheck
 // use the T-form of distinction if applicable
 [15-Night 6 Paycheck (the end 2)]

@@ -3,7 +3,6 @@
 |=========================================|
 // Phone Guy to Player
 // use the V-form of distinction if applicable
-
 [1]
 sta=17655
 dat1=Hallo, hallo! Hey!
