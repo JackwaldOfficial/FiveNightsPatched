@@ -1,0 +1,135 @@
+### vo_phoneguy_call2 Subtitles (nl-NL Dutch) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18680
+dat1=Eh, hallo? Hallo?
+
+[2]
+sta=20990
+dat1=Ehh, nou, als je dit hoort
+dat2=en je hebt het gehaald tot de tweede dag,
+
+[3]
+sta=24140
+dat1=eh, gefeliciteerd!
+
+[4]
+sta=25730
+dat1=I-Ik zal niet zo veel praten
+dat2=deze keer omdat...
+
+[5]
+sta=28610
+dat1=..Freddy en zijn vrienden geneigd zijn om
+dat2=tijdens de week steeds actiever te worden.
+
+[6]
+sta=32910
+dat1=Ehh, het is misschien een goed idee
+dat2=om die camera's te bekijken als ik praat,
+
+[7]
+sta=36770
+dat1=gewoon om zeker te zijn
+dat2=dat iedereen op de juiste plek is.
+
+[8]
+sta=40135
+dat1=Eh, het is ook interessant
+
+[9]
+sta=41790
+dat1=dat Freddy zelf niet zo vaak
+dat2=van het podium af komt.
+
+[10]
+sta=44725
+dat1=I-Ik hoorde wel dat hij
+dat2=veel actiever wordt in het donker.
+
+[11]
+sta=47775
+dat1=Dus... hé!
+
+[12]
+sta=49540
+dat1=Dat is dan nog een reden om niet
+dat2=zonder stroom te komen zitten, toch?
+
+[13]
+sta=53029
+dat1=Eh, ik wil ook benadrukken hoe belangrijk
+dat2=het gebruik van je deurlichten is.
+
+[14]
+sta=57490
+dat1=Eh, er zijn blinde vlekken
+dat2=in je cameraweergave
+
+[15]
+sta=60980
+dat1=en die blinde vlekken zijn toevallig
+dat2=precies buiten je deuren.
+
+[16]
+sta=64745
+dat1=Dus a-als je iets of iemand...
+dat2=..niet op je camera's kunt vinden,
+
+[17]
+sta=69755
+dat1=eh, controleer dan de deurlichten.
+
+[18]
+sta=71730
+dat1=Eh, je hebt misschien maar
+dat2=een paar seconden om te reageren.
+
+[19]
+sta=74860
+dat1=Eh, n-niet dat je op de een
+dat2=of andere manier in gevaar zou zijn.
+
+[20]
+sta=77790
+dat1=D-Dat bedoelde ik niet.
+
+[21]
+sta=80270
+dat1=Eh, controleer, eh-h, ook het gordijn
+dat2=in de piratenbaai v-van tijd tot tijd.
+
+[22]
+sta=85325
+dat1=Het personage daar schijnt uniek te zijn
+dat2=omdat hij...
+
+[23]
+sta=88275
+dat1=..actiever wordt als de camera's 
+dat2=voor een langere periode uit blijven.
+
+[24]
+sta=92415
+dat1=Eh, ik denk dat hij het niet leuk vindt
+dat2=als mensen naar hem kijken.
+
+[25]
+sta=94690
+dat1=Ik weet het niet.
+dat2=Eh, hoe dan ook,
+
+[26]
+sta=96470
+dat1=Ik ben er zeker van
+dat2=dat je alles onder controle hebt,
+
+[27]
+sta=98720
+end=99850
+dat1=eh, we praten snel weer.
+
+|=========================================|

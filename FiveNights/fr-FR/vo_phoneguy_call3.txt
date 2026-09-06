@@ -1,0 +1,97 @@
+### vo_phoneguy_call3 Subtitles (fr-FR French) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=19725
+dat1=Allô allô!
+dat2=Hé vous vous débrouillez très bien!
+
+[2]
+sta=22650
+dat1=Euh la plupart des gens
+dat2=ne tiennent pas aussi longtemps.
+
+[3]
+sta=25090
+dat1=Je veux dire, vous savez,
+
+[4]
+sta=26585
+dat1=i-ils passent généralement à autre chose.
+
+[5]
+sta=29425
+dat1=Euh, euh, je n'insinue pas qu'ils sont morts.
+dat2=C-C-Ce n'est pas ce que je voulais dire.
+
+[6]
+sta=34035
+dat1=Euh, de toute façon j-je ferais mieux
+dat2=de ne pas trop abuser de votre temps.
+
+[7]
+sta=37380
+dat1=Euh, les choses commencent
+dat2=à devenir sérieuses ce soir.
+
+[8]
+sta=39725
+dat1=Euh, h-h-hé écoutez, j-j'ai eu une idée.
+
+[9]
+sta=42705
+dat1=Si vous vous faites prendre
+
+[10]
+sta=44275
+dat1=e-et que vous voulez éviter de vous retrouver
+dat2=enfoncé dans un costume de Freddy,
+
+[11]
+sta=47691
+dat1=euh, essayez de faire le mort!
+
+[12]
+sta=49580
+dat1=Vous savez, ne bougez plus.
+
+[13]
+sta=51255
+dat1=Alors il y a une chance pour que,
+
+[14]
+sta=52480
+dat1=euh, peut-être qu'ils penseront
+dat2=que vous êtes plutôt un costume vide.
+
+[15]
+sta=56230
+dat1=Euh, cela dit s'ils pensent
+dat2=que vous êtes un costume vide,
+
+[16]
+sta=58580
+dat1=ils pourraient essayer...
+dat2=..d'enfoncer un squelette de métal en vous.
+
+[17]
+sta=62250
+dat1=Je me demande ce que ça donnerait.
+
+[18]
+sta=63945
+dat1=Ou-Ouais, peu importe, oubliez ça.
+dat2=I-Il vaut mieux ne pas se faire prendre.
+
+[19]
+sta=68340
+dat1=Hum... o-okay, j-je vais vous laisser.
+
+[20]
+sta=71110
+end=72400
+dat1=On se voit demain.
+
+|=========================================|

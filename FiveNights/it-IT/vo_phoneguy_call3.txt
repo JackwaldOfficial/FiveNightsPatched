@@ -1,0 +1,98 @@
+### vo_phoneguy_call3 Subtitles (it-IT Italian) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=19725
+dat1=Pronto, ciao!
+dat2=Hey, sta andando alla grande!
+
+[2]
+sta=22650
+dat1=Uh non molti durano così a lungo.
+
+[3]
+sta=25090
+dat1=Voglio dire, sa,
+
+[4]
+sta=26585
+dat1=d-di solito passano tutti
+dat2=ad altre cose ormai.
+
+[5]
+sta=29425
+dat1=Uh, uh, non sto insinuando che muoiano.
+dat2=N-N-Non è quello che intendevo.
+
+[6]
+sta=34035
+dat1=Uh, comunque è-è meglio
+dat2=che non le rubi troppo tempo.
+
+[7]
+sta=37380
+dat1=Uh, le cose iniziano
+dat2=a diventare serie stanotte.
+
+[8]
+sta=39725
+dat1=Uh, h-h-hey ascolti, 
+dat2=i-io ho avuto un'idea.
+
+[9]
+sta=42705
+dat1=Se mai dovessero prenderla
+
+[10]
+sta=44275
+dat1=e-e volesse evitare di essere infilato
+dat2=dentro un costume di Freddy,
+
+[11]
+sta=47691
+dat1=uhh, provi a fare il morto!
+
+[12]
+sta=49580
+dat1=Sa, non muova un muscolo.
+
+[13]
+sta=51255
+dat1=Forse c'è la possibilità che,
+
+[14]
+sta=52480
+dat1=uh, forse penseranno
+dat2=che lei è un costume vuoto.
+ 
+[15]
+sta=56230
+dat1=Uh, però se penseranno
+dat2=che lei è un costume vuoto
+
+[16]
+sta=58580
+dat1=potrebbero provare a...infilare
+dat2=uno scheletro di metallo dentro di lei.
+ 
+[17]
+sta=62250
+dat1=Mi chiedo come funzionerebbe.
+
+[18]
+sta=63945
+dat1=S-Sì, non importa, come non detto.
+dat2=È-È meglio non farsi prendere.
+
+[19]
+sta=68340
+dat1=Um... o-okay, l-la lascio al suo lavoro.
+
+[20]
+sta=71110
+end=72400
+dat1=Ci vediamo dall'altra parte.
+
+|=========================================|

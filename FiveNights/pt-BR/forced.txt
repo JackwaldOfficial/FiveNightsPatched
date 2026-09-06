@@ -1,0 +1,216 @@
+### Forced Subtitles (pt-BR Portuguese Brazil) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=8
+dat1=VAGA DE EMPREGO
+dat2=Freddy Fazbear's Pizza
+
+dat3=Pizzaria familiar procura
+dat4=por guarda de segurança
+
+dat5=para trabalhar no turno da noite.
+dat6=Meia noite às 6 da manhã.
+
+dat7=Monitorar câmeras, garantir a segurança
+dat8=dos equipamentos e dos animatrônicos.
+
+dat9=Não responsável
+dat10=por lesões/desmembramento.
+
+dat11=US$120 por semana.
+dat12=
+
+dat13=Para se candidatar, ligue:
+dat14=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=SOU EU SOU EU
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=SOU EU
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-DESCULPE!-
+dat2=SEM SERVIÇO
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=5
+dat1=REGRAS PARA SEGURANÇA
+dat2=1. Não corra.
+
+dat3=2. Não grite.
+dat4=3. Não berre.
+
+dat5=4. Não faça cocô no chão.
+dat6=5. Fique perto da sua mãe.
+
+dat7=6. Não toque no Freddy.
+dat8=7. Não bata.
+
+dat9=8. Vá embora antes de escurecer.
+dat10=obrigado, a gerência
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=9
+dat1=Crianças desaparecem em pizzaria local -
+dat2=- corpos não encontrados.
+
+dat3=Duas crianças da região foram
+dat4=supostamente atraídas para
+
+dat5=um quarto nos fundos da pizzaria
+dat6=Freddy Fazbear's Pizza
+
+dat7=na noite de 26 de junho.
+dat8=
+
+dat9=Embora as imagens de segurança
+dat10=tenham ajudado a identificar 
+
+dat11=o homem responsável e a capturá-lo 
+dat12=na manhã seguinte,
+
+dat13=as crianças nunca foram encontradas
+dat14=e presume-se que estejam mortas.
+
+dat15=A polícia acredita que o suspeito 
+dat16=vestiu-se como um mascote da empresa
+
+dat17=para ganhar a confiança das crianças.
+dat18=
+
+// article 2
+[70]
+steps=8
+dat1=Pizzaria local em risco de interdição
+dat2=devido a problemas sanitários.
+
+dat3=A pizzaria Freddy Fazbear's Pizza
+dat4=teve sua atividade novamente ameaçada
+
+dat5=pela vigilância sanitária
+dat6=após reclamações de um cheiro terrível
+
+dat7=proveniente dos seus tão amados
+dat8=mascotes.
+
+dat9=A polícia foi contatada
+dat10=
+
+dat11=quando os pais supostamente observaram
+dat12=o que parecia ser sangue e muco
+
+dat13=ao redor dos olhos e bocas
+dat14=dos mascotes.
+
+dat15=Um dos pais os comparou a
+dat16="carcaças reanimadas".
+
+// article 3
+[71]
+steps=7
+dat1=Agora são cinco crianças desaparecidas.
+dat2=Suspeito condenado.
+
+dat3=Cinco crianças estão agora ligadas
+dat4=ao incidente na Freddy Fazbear's Pizza,
+
+dat5=em que um homem vestido de mascote animado
+dat6=as atraiu para um quarto nos fundos.
+
+dat7=Embora o suspeito tenha sido indiciado,
+dat8=os corpos nunca foram encontrados.
+
+dat9=A Freddy Fazbear's Pizza tem enfrentado
+dat10=uma penosa batalha desde então
+
+dat11=para convencer as famílias
+dat12=a voltarem para a pizzaria.
+
+dat13="É uma tragédia."
+dat14=
+
+// article 4
+[72]
+steps=8
+dat1=Pizzaria local anuncia encerramento
+dat2=das atividades até o final do ano.
+
+dat3=Após uma longa luta para continuar
+dat4=
+
+dat5=com o negócio depois da tragédia
+dat6=que aconteceu ali há muitos anos,
+
+dat7=a Freddy Fazbear's Pizza comunicou
+dat8=que fechará até o final do ano.
+
+dat9=Apesar de terem buscado um comprador
+dat10=
+
+dat11=por mais de um ano, ninguém demonstrou
+dat12=interesse em ser associado à empresa.
+
+dat13="Estes personagens continuarão vivos.
+dat14=
+
+dat15="Nos corações das crianças-
+dat16=os personagens continuarão vivos." - CEO
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=Bom trabalho, amigão!
+dat2=(até a semana que vem)
+
+dat3=OBSERVAÇÃO: funcionário valioso
+dat4=
+
+dat3=HINWEIS:
+dat4=besonders geschätzter Mitarbeiter
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=3
+dat1=Bom trabalho, amigão!
+dat2=(Você recebeu algumas horas extras!)
+
+dat3=OBSERVAÇÃO: funcionário do mês
+dat4=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=4
+dat1=AVISO DE RESCISÃO
+dat2=(você está demitido)
+
+dat3=MOTIVO: Interferência nos animatrônicos.
+dat4=Falta de profissionalismo. Mau cheiro.
+
+dat5=obrigado, a gerência
+dat6=
+
+|=========================================|

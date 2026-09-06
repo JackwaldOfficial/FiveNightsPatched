@@ -1,0 +1,100 @@
+### vo_phoneguy_call3 Subtitles (nl-NL Dutch) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=19725
+dat1=Hallo hallo!
+dat2=Hé, je doet het geweldig!
+
+[2]
+sta=22650
+dat1=Eh, de meesten houden het niet zo lang vol.
+
+[3]
+sta=25090
+dat1=Ik bedoel, weet je,
+
+[4]
+sta=26585
+dat1=z-ze gaan meestal
+dat2=andere dingen doen.
+
+[5]
+sta=29425
+dat1=Eh, eh, ik bedoel niet dat ze dood gaan.
+dat2=D-D-Dat is niet wat ik bedoelde.
+
+[6]
+sta=34035
+dat1=Eh, i-ik kan maar beter niet 
+dat2=te veel van je tijd gebruiken.
+
+[7]
+sta=37380
+dat1=Eh, vanavond begint het pas echt.
+
+[8]
+sta=39725
+dat1=Eh, h-h-hé luister, i-ik heb een idee.
+
+[9]
+sta=42705
+dat1=Als je gepakt wordt
+
+[10]
+sta=44275
+dat1=e-en wilt voorkomen dat ze je
+dat2=in een Freddy-kostuum stoppen,
+
+[11]
+sta=47691
+dat1=probeer dan te doen alsof je dood bent!
+
+[12]
+sta=49580
+dat1=Word plotseling slap, weet je.
+
+[13]
+sta=51255
+dat1=Er bestaat dan een kans dat,
+
+[14]
+sta=52480
+dat1=eh, misschien denken ze dan
+dat2=dat je een leeg kostuum bent.
+ 
+[15]
+sta=56230
+dat1=Eh, maar als ze denken
+dat2=dat je een leeg kostuum bent,
+
+[16]
+sta=58580
+dat1=zouden ze kunnen proberen om...
+dat2=..een metalen skelet in je te proppen.
+ 
+[17]
+sta=62250
+dat1=Ik vraag me af hoe dat zou gaan.
+
+[18]
+sta=63945
+dat1=J-Ja, vergeet dat toch maar.
+
+[19]
+sta=65625
+dat1=H-Het is het beste
+dat2=om gewoon niet gepakt te worden.
+
+[20]
+sta=68340
+dat1=Eh... o-oké, veel succes ermee.
+
+[21]
+sta=71110
+end=72400
+dat1=Ik zie je wel na afloop.
+
+|=========================================|

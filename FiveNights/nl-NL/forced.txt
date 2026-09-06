@@ -1,0 +1,213 @@
+### Forced Subtitles (nl-NL Dutch) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=8
+dat1=HULP GEZOCHT
+dat2=Freddy Fazbear's Pizza
+
+dat3=Familiepizzeria zoekt
+dat4=bewaker voor de nachtdienst
+
+dat5=24:00 tot 6:00 uur.
+dat6=
+
+dat7=Camera's bekijken en de apparatuur
+dat8=en animatronics beveiligen.
+
+dat9=Niet verantwoordelijk
+dat10=voor verwonding/vierendeling.
+
+dat11=$ 120 per week.
+dat12=
+
+dat13=Bel dit nummer om te solliciteren:
+dat14=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=IK BEN HET IK BEN HET
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=IK BEN HET
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-SORRY!-
+dat2=DEFECT
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=5
+dat1=VEILIGHEIDSREGELS
+dat2=1. Niet rennen.
+
+dat3=2. Niet schreeuwen.
+dat4=3. Niet krijsen.
+
+dat5=4. Niet op de vloer poepen.
+dat6=5. Blijf dicht bij mamma.
+
+dat7=6. Freddy niet aanraken.
+dat8=7. Niet slaan.
+
+dat9=8. Voor het donker vertrekken.
+dat10=bedankt, de directie
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=9
+dat1=Kinderen verdwijnen uit lokale pizzeria -
+dat2=- lichamen niet gevonden.
+
+dat3=Twee lokale kinderen
+dat4=zouden een achterkamer in zijn gelokt
+
+dat5=tegen het einde van de werkdag
+dat6=bij Freddy Fazbear's Pizza
+
+dat7=op de avond van 26 juni.
+dat8=
+
+dat9=Dankzij de videobeelden
+dat10=werd de verantwoordelijke man
+
+dat11=gevonden en de volgende morgen
+dat12=gearresteerd, maar de kinderen
+
+dat13=zijn nooit gevonden en men denkt
+dat14=dat ze overleden zijn.
+
+dat15=De politie denkt dat de verdachte
+dat16=zich had verkleed als mascotte
+
+dat17=van het bedrijf om het vertrouwen
+dat18=van de kinderen te winnen.
+
+// article 2
+[70]
+steps=8
+dat1=Sluiting dreigt voor lokale pizzeria
+dat2=in verband met hygiëne.
+
+dat3=Een lokale pizzeria, Freddy Fazbear's Pizza
+dat4=dreigt opnieuw gesloten te worden
+
+dat5=door de gezondheidsautoriteiten
+dat6=na meldingen over een vieze geur
+
+dat7=die van de geliefde
+dat8=dierenmascottes komt.
+
+dat9=Er werd bij de politie gemeld
+dat10=
+
+dat11=dat ouders iets dat leek op
+dat12=bloed en slijm rond
+
+dat13=de ogen en monden
+dat14=van de mascottes hadden gezien.
+
+dat15=Een van de ouders noemde ze
+dat16="gereanimeerde lijken".
+
+// article 3
+[71]
+steps=7
+dat1=Er zouden nu vijf kinderen vermist zijn.
+dat2=Verdachte veroordeeld.
+
+dat3=Vijf kinderen worden nu in verband gebracht
+dat4=met het incident bij Freddy Fazbear's Pizza
+
+dat5=waar een man verkleed als een mascotte
+dat6=ze naar een achterkamer lokte.
+
+dat7=De verdachte is aangeklaagd,
+dat8=maar de lichamen zijn nooit gevonden.
+
+dat9=Freddy Fazbear's Pizza probeert nu
+dat10=met veel moeite
+
+dat11=om families over te halen
+dat12=om weer naar de pizzeria te komen.
+
+dat13="Het is een tragedie."
+dat14=
+
+// article 4
+[72]
+steps=8
+dat1=Lokale pizzeria zou nog voor
+dat2=het einde van het jaar sluiten.
+
+dat3=Na een lange strijd om de zaak
+dat4=open te houden na de tragedie
+
+dat5=die hier jaren geleden
+dat6=heeft plaatsgevonden, 
+
+dat7=meldt Freddy Fazbear's Pizza dat ze
+dat8=dit jaar nog de deuren zullen sluiten.
+
+dat9=Ondanks een jarenlange zoektocht
+dat10=naar een koper,
+
+dat11=lijken bedrijven niet met het bedrijf
+dat12=geassocieerd te willen worden.
+
+dat13="Deze personages blijven leven.
+dat14=
+
+dat15="In de harten van de kinderen-
+dat16=deze personages blijven leven." - CEO
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=Goed gedaan, kerel!
+dat2=(zie je volgende week)
+
+dat3=MEMO: gewaardeerde medewerker
+dat4=
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=3
+dat1=Goed gedaan, kerel!
+dat2=(Je hebt wat overwerk verdiend!)
+
+dat3=MEMO: medewerker van de maand
+dat4=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=4
+dat1=MELDING VAN ONTSLAG
+dat2=(je bent ontslagen)
+
+dat3=REDEN: Knoeien met de animatronics.
+dat4=Gebrek aan professionaliteit. Stank.
+
+dat5=bedankt, de directie
+dat6=
+
+|=========================================|

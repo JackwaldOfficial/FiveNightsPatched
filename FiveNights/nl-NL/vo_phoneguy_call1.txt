@@ -1,0 +1,341 @@
+### vo_phoneguy_call1 Subtitles (nl-NL Dutch) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18900
+dat1=Hallo, hallo?
+
+[2]
+sta=21740
+dat1=Eh... ik wilde een bericht
+dat2=voor je opnemen
+
+[3]
+sta=24740
+dat1=om je te helpen om snel te wennen
+dat2=tijdens je eerste avond.
+
+[4]
+sta=27540
+dat1=Eh... Ik heb namelijk voor jou
+dat2=in dat kantoor gewerkt.
+
+[5]
+sta=31050
+dat1=Ik...rond nu mijn laatste week af
+dat2=eigenlijk, dus...
+
+[6]
+sta=35320
+dat1=..Ik weet dat het wat veel kan zijn.
+
+[7]
+sta=37750
+dat1=Maar ik ben hier om je te vertellen
+dat2=dat je je geen zorgen hoeft te maken.
+
+[8]
+sta=40720
+dat1=Eh, het zal je prima lukken.
+
+[9]
+sta=42400
+dat1=Laten we ons er dus op richten
+
+[10]
+sta=44420
+dat1=dat je je eerste week
+dat2=goed doorkomt, oké?
+
+[11]
+sta=47430
+dat1=Eh, even kijken.
+
+[12]
+sta=48370
+dat1=Eerst is er de introductiegroet
+dat2=van het bedrijf
+
+[13]
+sta=51535
+dat1=die ik moet lezen.
+
+[14]
+sta=53090
+dat1=Eh, h-het is nogal juridisch,
+dat2=weet je.
+
+[15]
+sta=55840
+dat1=Eh,
+dat2="Welkom bij Freddy Fazbear's Pizza.
+
+[16]
+sta=58850
+dat1="Een magische plek voor zowel
+dat2=kinderen als volwassenen
+
+[17]
+sta=61930
+dat1="waar fantasie en plezier tot leven komen.
+
+[18]
+sta=64610
+dat1="Fazbear Entertainment
+dat2=is niet verantwoordelijk
+
+[19]
+sta=66790
+dat1="voor schade aan eigendommen
+dat2=of personen.
+
+[20]
+sta=69140
+dat1="Als er wordt ontdekt dat er 
+dat2=schade of dood heeft plaatsgevonden,
+
+[21]
+sta=71610
+dat1="zal de persoon binnen 90 dagen
+dat2=als vermist worden opgegeven 
+
+[22]
+sta=74450
+dat1="of op het moment dat de locatie
+
+[23]
+sta=76225
+dat1="grondig is gereinigd
+dat2=en gebleekt,
+
+[24]
+sta=78300
+dat1="en de vloerbedekking is vervangen."
+
+[25]
+sta=80100
+dat1=Blablabla.
+
+[26]
+sta=81350
+dat1=Ik weet, dit klinkt misschien slecht.
+
+[27]
+sta=83670
+dat1=Maar je hoeft je echt
+dat2=nergens zorgen om te maken.
+
+[28]
+sta=86390
+dat1=Eh, de animatronic-personages hier...
+dat2=..doen wel een beetje raar 's nachts,
+
+[29]
+sta=90920
+dat1=maar neem ik ze dat kwalijk? Nee.
+
+[30]
+sta=92920
+dat1=Als ik 20 jaar lang
+
+[31]
+sta=94700
+dat1=dezelfde stomme liedjes
+dat2=moest zingen
+
+[32]
+sta=97090
+dat1=en nooit gewassen werd?
+
+[33]
+sta=98530
+dat1=Dan zou ik 's nachts waarschijnlijk
+dat2=ook geïrriteerd zijn.
+
+[34]
+sta=101060
+dat1=Vergeet dus niet
+
+[35]
+sta=102210
+dat1=dat deze personages een speciale plek
+dat2=in de harten van de kinderen hebben
+
+[36]
+sta=105180
+dat1=en dat we een beetje
+dat2=respect voor ze moeten hebben.
+
+[37]
+sta=107340
+dat1=Goed? Oké.
+
+[38]
+sta=109150
+dat1=Denk er dus aan dat de personages
+dat2=geneigd zijn om rond te dolen.
+
+[39]
+sta=114020
+dat1=Eh, ze worden in een soort
+dat2=vrije stand gelaten 's nachts.
+
+[40]
+sta=117910
+dat1=Eh... iets over
+dat2=blokkerende servomotoren
+
+[41]
+sta=120520
+dat1=als ze te lang uit worden gezet.
+
+[42]
+sta=122660
+dat1=Eh, ze mochten vroeger ook
+dat2=overdag rondlopen.
+
+[43]
+sta=125470
+dat1=Maar toen kwam "De beet van '87."
+
+[44]
+sta=128400
+dat1=Ja.
+
+[45]
+sta=129770
+dat1=H-Het is verbluffend dat het lichaam
+dat2=zonder frontale kwab kan leven,
+
+[46]
+sta=133470
+dat1=wist je dat?
+
+[47]
+sta=134400
+dat1=Eh, nou over jouw veiligheid.
+dat2=Het enige risico voor jou
+
+[48]
+sta=138520
+dat1=als nachtbewaker hier,
+dat2=als er al een risico is,
+
+[49]
+sta=140700
+dat1=is dat deze personages,
+
+[50]
+sta=142800
+dat1=eh, als ze je zien
+dat2=na sluitingstijd,
+
+[51]
+sta=145460
+dat1=je waarschijnlijk niet herkennen
+dat2=als een persoon.
+
+[52]
+sta=148900
+dat1=Ze zullen je hoogstwaarschijnlijk zien
+dat2=als een metalen endoskelet
+
+[53]
+sta=152200
+dat1=zonder kostuum.
+
+[54]
+sta=153940
+dat1=Omdat dit in strijd met de regels is
+dat2=hier bij Freddy Fazbear's Pizza,
+
+[55]
+sta=157600
+dat1=zullen ze waarschijnlijk proberen om...
+
+[56]
+sta=159545
+dat1=..je onder dwang
+dat2=in een Freddy Fazbear-kostuum te proppen.
+
+[57]
+sta=163560
+dat1=Eh... dat zou niet zo'n probleem zijn
+dat2=als de kostuums zelf niet gevuld waren
+
+[58]
+sta=168110
+dat1=met dwarsbalken, draden
+dat2=en animatronic-apparatuur
+
+[59]
+sta=172280
+dat1=vooral in het gebied rondom het gezicht.
+
+[60]
+sta=174460
+dat1=Je kunt je dus voorstellen
+dat2=dat als je gezicht
+
+[61]
+sta=176300
+dat1=met kracht daarin wordt geduwd,
+dat2=dit wat ongemak kan veroorzaken...
+
+[62]
+sta=180830
+dat1=..en de dood.
+
+[63]
+sta=182410
+dat1=Eh, de enige delen van je
+
+[64]
+sta=183600
+dat1=die waarschijnlijk
+dat2=het daglicht weer zouden zien
+
+[65]
+sta=185110
+dat1=zouden je oogbollen en tanden zijn
+
+[66]
+sta=186510
+dat1=als ze aan de voorkant
+dat2=uit het masker springen.
+
+[67]
+sta=189300
+dat1=J-Ja, die dingen vertellen ze je niet
+dat2=als je je aanmeldt.
+
+[68]
+sta=192390
+dat1=Maar hé, de eerste dag
+dat2=kan niet al te moeilijk zijn.
+
+[69]
+sta=194370
+dat1=Ik spreek je morgen.
+
+[70]
+sta=195920
+dat1=Eh, kijk ook naar die camera's
+
+[71]
+sta=197080
+dat1=en sluit de deuren alleen
+dat2=als het absoluut noodzakelijk is.
+
+[72]
+sta=200990
+dat1=We moeten stroom besparen.
+
+[73]
+sta=202680
+end=203550
+dat1=Oké, een goede nacht.
+
+|=========================================|

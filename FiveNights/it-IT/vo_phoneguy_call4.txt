@@ -1,0 +1,80 @@
+### vo_phoneguy_call4 Subtitles (it-IT Italian) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=17655
+dat1=Pronto, pronto! Hey!
+dat2=Hey wow, quarto giorno.
+
+[2]
+sta=21060
+dat1=Sapevo che ce l'avrebbe fatta.
+dat2=Uh, hey ascolti.
+
+[3]
+sta=23345
+dat1=Uh, potrei non essere qui
+dat2=per mandarle un messaggio domani.
+
+[4]
+sta=26255
+dat1=Uh, è-è stata una brutta notte qui...
+dat2=..per me.
+
+[5]
+sta=30510
+dat1=Um, s-sono piuttosto contento di aver
+dat2=registrato i miei messaggi per lei, hem
+
+[6]
+sta=34990
+dat1=Uh, quando l'ho fatto.
+
+[7]
+sta=36085
+dat1=Uh hey, mi faccia un favore.
+
+[8]
+sta=38070
+dat1=Uh forse qualche volta,
+
+[9]
+sta=39665
+dat1=uh, potrebbe controllare
+dat2=dentro quei costumi...
+
+[10]
+sta=41915
+dat1=..uh nella stanza sul retro?
+
+[11]
+sta=43250
+dat1=Uh, proverò a resistere
+dat2=finché qualcuno...non controllerà.
+
+[12]
+sta=46905
+dat1=Forse non sarà così male.
+
+[13]
+sta=49100
+dat1=Sì, i-i-i-io mi sono sempre chiesto
+dat2=cosa ci fosse dentro quelle teste vuote...
+
+[14]
+sta=52380
+dat1=..là dietro.
+
+[15]
+sta=53660
+end=54100
+dat1=Sa.
+
+[16]
+sta=56345
+end=56850
+dat1=Oh no.
+
+|=========================================|

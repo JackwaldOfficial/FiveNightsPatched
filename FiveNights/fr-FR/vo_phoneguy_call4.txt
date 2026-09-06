@@ -1,0 +1,80 @@
+### vo_phoneguy_call4 Subtitles (fr-FR French) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=17655
+dat1=Allô, allô! Hé!
+dat2=Hé ouah, jour quatre.
+
+[2]
+sta=21060
+dat1=Je savais que vous pouviez le faire.
+dat2=Euh, hé écoutez.
+
+[3]
+sta=23345
+dat1=Euh, je ne serai peut-être pas là
+dat2=pour vous envoyer un message demain.
+
+[4]
+sta=26255
+dat1=Euh, ça-ça a été une mauvaise nuit ici...
+dat2=..pour moi.
+
+[5]
+sta=30510
+dat1=Hum, j-je suis plutôt content d'avoir
+dat2=enregistré mes messages pour vous, hem
+
+[6]
+sta=34990
+dat1=Euh, quand je l'ai fait.
+
+[7]
+sta=36085
+dat1=Euh hé, rendez-moi un service.
+
+[8]
+sta=38070
+dat1=Euh peut-être qu'à un moment,
+
+[9]
+sta=39665
+dat1=euh, vous pourriez vérifier
+dat2=l'intérieur de ces costumes...
+
+[10]
+sta=41915
+dat1=..euh dans l'arrière-salle?
+
+[11]
+sta=43250
+dat1=Euh, je vais essayer de tenir le coup
+dat2=jusqu'à ce que quelqu'un...vérifie.
+
+[12]
+sta=46905
+dat1=Ce ne sera peut-être pas si mal.
+
+[13]
+sta=49100
+dat1=Oui j-j-j-je me suis toujours demandé
+dat2=ce qu'il y avait dans toutes ces têtes vides...
+
+[14]
+sta=52380
+dat1=..là-bas derrière.
+
+[15]
+sta=53660
+end=54100
+dat1=Vous savez.
+
+[16]
+sta=56345
+end=56850
+dat1=Oh non.
+
+|=========================================|

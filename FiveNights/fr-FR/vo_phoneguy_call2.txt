@@ -1,0 +1,152 @@
+### vo_phoneguy_call2 Subtitles (fr-FR French) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=18680
+dat1=Euh, allô? Allô?
+
+[2]
+sta=20990
+dat1=Euh, et bien, si vous entendez ceci
+dat2=et que vous êtes arrivé au jour deux,
+
+[3]
+sta=24140
+dat1=euh, félicitations!
+
+[4]
+sta=25730
+dat1=J-Je ne vais pas parler
+dat2=aussi longtemps cette fois car...
+
+[5]
+sta=28610
+dat1=..Freddy et ses amis ont tendance
+dat2=à devenir plus actifs
+
+[6]
+sta=30855
+dat1=au fil de la semaine.
+
+[7]
+sta=32910
+dat1=Euh, ça pourrait être une bonne idée
+dat2=de jeter un œil à ces caméras
+
+[8]
+sta=35610
+dat1=pendant que je parle,
+
+[9]
+sta=36770
+dat1=juste pour s'assurer que tout le monde
+dat2=est à sa place, vous savez.
+
+[10]
+sta=40135
+dat1=Euh, chose intéressante,
+
+[11]
+sta=41790
+dat1=Freddy lui-même ne descend pas de la scène
+dat2=très souvent.
+
+[12]
+sta=44725
+dat1=J-J'ai entendu dire qu'il devient beaucoup
+dat2=plus actif dans le noir cependant.
+
+[13]
+sta=47775
+dat1=Alors... hé!
+
+[14]
+sta=49540
+dat1=Je suppose que c'est une raison de plus
+dat2=pour ne pas venir à manquer de courant, non?
+
+[15]
+sta=53029
+dat1=Euh, je veux aussi souligner l'importance
+dat2=d'utiliser vos lumières de porte.
+
+[16]
+sta=57490
+dat1=Euh, il y a des angles morts
+dat2=dans le champ de vision de vos caméras,
+
+[17]
+sta=60980
+dat1=et ces angles morts se trouvent
+dat2=juste derrière vos portes.
+
+[18]
+sta=64745
+dat1=Donc, s-si vous ne trouvez pas
+dat2=quelque chose...
+
+[19]
+sta=67560
+dat1=..ou quelqu'un sur vos caméras,
+
+[20]
+sta=69755
+dat1=euh, assurez-vous de vérifier
+dat2=les lumières des portes.
+
+[21]
+sta=71730
+dat1=Euh, vous n'aurez peut-être
+dat2=que quelques secondes pour réagir.
+
+[22]
+sta=74860
+dat1=Euh, n-non pas que vous seriez
+dat2=en danger bien sûr.
+
+[23]
+sta=77790
+dat1=J-Je ne sous-entend pas cela.
+
+[24]
+sta=80270
+dat1=Euh, également, euh-h,
+
+[25]
+sta=81780
+dat1=vérifiez le rideau dans la crique
+dat2=des pirates d-de temps en temps.
+
+[26]
+sta=85325
+dat1=Le personnage là-dedans semble unique
+dat2=dans le sens où il devient...
+
+[27]
+sta=88275
+dat1=..plus actif si les caméras restent éteintes
+dat2=pendant de longues périodes.
+
+[28]
+sta=92415
+dat1=Euh je suppose
+dat2=qu'il n'aime pas être observé.
+
+[29]
+sta=94690
+dat1=Je ne sais pas.
+dat2=Euh quoi qu'il en soit,
+
+[30]
+sta=96470
+dat1=je suis sûr que vous avez
+dat2=tout sous contrôle,
+
+[31]
+sta=98720
+end=99850
+dat1=euh, à bientôt.
+
+|=========================================|

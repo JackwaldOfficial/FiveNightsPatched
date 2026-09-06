@@ -1,0 +1,80 @@
+### vo_phoneguy_call4 Subtitles (pt-BR Portuguese Brazil) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// Phone Guy to Player
+// use the V-form of distinction if applicable
+[1]
+sta=17655
+dat1=Alô, alô! Ei!
+dat2=Ei, uau, quarto dia.
+
+[2]
+sta=21060
+dat1=Sabia que você conseguiria.
+dat2=Eh, ei, escute.
+
+[3]
+sta=23345
+dat1=Eh, pode ser que eu não esteja por aqui
+dat2=para te mandar uma mensagem amanhã.
+
+[4]
+sta=26255
+dat1=Eh, f-foi uma noite difícil aqui...
+dat2=..para mim.
+
+[5]
+sta=30510
+dat1=Hum, e-eu fico feliz de ter gravado
+dat2=essas mensagens para você, hmm
+
+[6]
+sta=34990
+dat1=Eh, do jeito que fiz.
+
+[7]
+sta=36085
+dat1=Eh ei, faça-me um favor.
+
+[8]
+sta=38070
+dat1=Eh talvez em algum momento,
+
+[9]
+sta=39665
+dat1=eh, você poderia olhar
+dat2=dentro daquelas fantasias...
+
+[10]
+sta=41915
+dat1=..eh, no quarto dos fundos?
+
+[11]
+sta=43250
+dat1=Eh, vou tentar aguentar
+dat2=até alguém...conferir.
+
+[12]
+sta=46905
+dat1=Talvez não seja tão difícil.
+
+[13]
+sta=49100
+dat1=Pois é, e-e-e-eu sempre me perguntei
+dat2=o que tem dentro daquelas cabeças vazias...
+
+[14]
+sta=52380
+dat1=..lá atrás.
+
+[15]
+sta=53660
+end=54100
+dat1=Vai saber.
+
+[16]
+sta=56345
+end=56850
+dat1=Oh, não.
+
+|=========================================|

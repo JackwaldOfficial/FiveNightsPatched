@@ -1,0 +1,234 @@
+### Forced Subtitles (fr-FR French) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=9
+dat1=OFFRE D'EMPLOI
+dat2=Freddy Fazbear's Pizza
+
+dat3=Pizzeria familiale à la recherche 
+dat4=d'un agent de sécurité
+
+dat5=pour travailler de nuit.
+dat6=De 0h à 6h.
+
+dat7=Contrôler les caméras,
+dat8=
+
+dat9=assurer la sécurité des équipements
+dat10=et des animatroniques.
+
+dat11=Non responsable
+dat12=en cas de blessure/mutilation.
+
+dat13=120 $ par semaine.
+dat14=
+
+dat15=Pour postuler appelez:
+dat16=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=C'EST MOI C'EST MOI
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=C'EST MOI
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-DÉSOLÉ!-
+dat2=HORS SERVICE
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=5
+dat1=RÈGLES DE SÉCURITÉ
+dat2=1. Ne cours pas.
+
+dat3=2. Ne crie pas.
+dat4=3. Ne hurle pas.
+
+dat5=4. Ne fais pas caca par terre.
+dat6=5. Reste près de maman.
+
+dat7=6. Ne touche pas Freddy.
+dat8=7. Ne tape pas.
+
+dat9=8. Pars avant la nuit.
+dat10=merci, la direction
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=8
+dat1=Des enfants disparaissent à la pizzeria
+dat2=du quartier - les corps sont introuvables.
+
+dat3=Deux enfants de la région auraient été
+dat4=attirés dans une arrière-salle
+
+dat5=peu avant la fermeture de Freddy
+dat6=Fazbear's Pizza dans la nuit du 26 juin.
+
+dat7=Si la vidéosurveillance
+dat8=a identifié l'homme responsable
+
+dat9=et a conduit à son arrestation
+dat10=le lendemain matin,
+
+dat11=les enfants eux-mêmes n'ont jamais
+dat12=été retrouvés et sont présumés morts.
+
+dat13=La police pense que le suspect
+dat14=s'est déguisé en mascotte de l'entreprise
+
+dat15=pour gagner la confiance des enfants.
+dat16=
+
+// article 2
+[70]
+steps=10
+dat1=La pizzeria du quartier menacée
+dat2=de fermeture pour désinfection.
+
+dat3=La pizzeria du quartier,
+dat4=Freddy Fazbear's Pizza
+
+dat5=a une nouvelle fois été menacée
+dat6=de fermeture
+
+dat7=par le département de la santé
+dat8=
+
+dat9=en raison de rapports faisant état
+dat10=d'odeurs nauséabondes
+
+dat11=provenant des très appréciées
+dat12=mascottes animales.
+
+dat13=La police a été contactée
+dat14=
+
+dat15=lorsque des parents auraient remarqué
+dat16=ce qui semblait être du sang et du mucus
+
+dat17=autour des yeux et des bouches
+dat18=des mascottes.
+
+dat19=Un parent les a qualifiées de
+dat20="carcasses réanimées".
+
+// article 3
+[71]
+steps=10
+dat1=Cinq enfants désormais portés disparus.
+dat2=Un suspect condamné.
+
+dat3=Cinq enfants sont maintenant liés
+dat4=
+
+dat5=à l'incident survenu
+dat6=chez Freddy Fazbear's Pizza,
+
+dat7=où un homme habillé
+dat8=en mascotte de dessin animé
+
+dat9=les a attirés dans une arrière-salle.
+dat10=
+
+dat11=Bien que le suspect ait été inculpé,
+dat12=
+
+dat13=les corps eux-mêmes
+dat14=n'ont jamais été retrouvés.
+
+dat15=Depuis, Freddy Fazbear's Pizza
+dat16=mène une bataille difficile
+
+dat17=pour convaincre les familles
+dat18=de retourner à la pizzeria.
+
+dat19="C'est une tragédie."
+dat20=
+
+// article 4
+[72]
+steps=9
+dat1=La pizzeria du quartier devrait fermer
+dat2=d'ici la fin de l'année.
+
+dat3=Après une longue lutte pour rester à flot
+dat4=
+
+dat5=après la tragédie qui s'y est déroulée
+dat6=il y a de nombreuses années,
+
+dat7=Freddy Fazbear's Pizza a annoncé
+dat8=qu'elle fermerait ses portes
+
+dat9=d'ici la fin de l'année.
+dat10=
+
+dat11=Malgré la recherche d'un repreneur
+dat12=pendant une année,
+
+dat13=les entreprises ne semblent pas disposées
+dat14=à s'associer à la compagnie.
+
+dat15="Ces personnages continueront de vivre.
+dat16=
+
+dat17="Dans le cœur des enfants- ces personnages
+dat18=continueront de vivre." - PDG
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=Bon travail, gars!
+dat2=(à la semaine prochaine)
+
+dat3=MÉMO: employé de valeur
+dat4=
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=3
+dat1=Bon travail, gars!
+dat2=(tu as mérité des heures sup!)
+
+dat3=MÉMO: employé du mois
+dat4=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=5
+dat1=AVIS DE LICENCIEMENT
+dat2=(tu es viré)
+
+dat3=MOTIF:
+dat4=Manipulation des animatroniques.
+
+dat5=Manque général de professionnalisme.
+dat6=Mauvaise odeur.
+
+dat7=merci, la direction
+dat8=
+
+|=========================================|

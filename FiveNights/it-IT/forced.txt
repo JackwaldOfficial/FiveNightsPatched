@@ -1,0 +1,213 @@
+### Forced Subtitles (it-IT Italian) ###
+### Translation provided by Clickteam LLC ###
+|=========================================|
+// classified advertisement in newspaper
+[4-New Game Intro (ad)]
+steps=8
+dat1=CERCASI AIUTO
+dat2=Freddy Fazbear's Pizza
+
+dat3=Pizzeria per famiglie in cerca di una
+dat4=guardia per il turno notturno. 
+
+dat5=Da mezzanotte alle 6 di mattina.
+dat6=
+
+dat7=Controlla le telecamere, tieni al sicuro
+dat8=le attrezzature e gli animatronici.
+
+dat9=Non siamo responsabili
+dat10=per infortuni/smembramento.
+
+dat11=$120 a settimana.
+dat12=
+
+dat13=Per candidarti, chiama il
+dat14=1-555-FAZ-FAZBEAR
+
+|=========================================|
+// graffiti in CAM 4A
+[68]
+steps=1
+dat1=SONO IO SONO IO
+dat2=
+
+// graffiti in CAM 1C
+[73]
+steps=1
+dat1=SONO IO
+dat2=
+
+// sign in CAM 1C
+[26]
+steps=1
+dat1=-SPIACENTE!-
+dat2=FUORI SERVIZIO
+
+|=========================================|
+// note on the wall in CAM 4B
+// Restaurant Management to children
+// use the T-form of distinction if applicable
+[23]
+steps=5
+dat1=REGOLE PER LA SICUREZZA
+dat2=1. Non si corre.
+
+dat3=2. Non si urla.
+dat4=3. Non si strilla.
+
+dat5=4. Non si fanno i bisogni sul pavimento.
+dat6=5. Stare vicino alla mamma.
+
+dat7=6. Non si tocca Freddy.
+dat8=7. Non si colpisce.
+
+dat9=8. Andare via prima che faccia buio.
+dat10=vi ringraziamo, la gestione
+
+|=========================================|
+// newspaper articles
+// article 1
+[69]
+steps=9
+dat1=Bambini spariscono nella pizzeria locale -
+dat2=- corpi non trovati.
+
+dat3=Due bambini del posto sono stati
+dat4=attirati in una stanza sul retro
+
+dat5=durante le ore serali di apertura
+dat6=al Freddy Fazbear's Pizza
+
+dat7=nella notte del 26 giugno.
+dat8=
+
+dat9=Mentre la videosorvegianza
+dat10=ha identificato l'uomo responsabile
+
+dat11=e ha portato alla sua cattura
+dat12=la mattina seguente,
+
+dat13=i bambini non sono mai stati trovati
+dat14=e sono presunti deceduti.
+
+dat15=La polizia pensa che il sospettato
+dat16=si sia travestito come una mascotte
+
+dat17=per guadagnarsi la fiducia dei bambini.
+dat18=
+
+// article 2
+[70]
+steps=8
+dat1=Pizzeria locale rischia di chiudere
+dat2=a causa dei servizi igienico-sanitari.
+
+dat3=Pizzeria locale, Freddy Fazbear's Pizza
+dat4=è stata di nuovo minacciata di chiusura
+
+dat5=dal dipartimento della salute a causa
+dat6=delle segnalazioni sul cattivo odore
+
+dat7=proveniente dalle tanto amate
+dat8=mascotte animali.
+
+dat9=La polizia è stata contattata
+dat10=
+
+dat11=quando i genitori si accorsero di ciò
+dat12=che sembrava essere sangue e muco
+
+dat13=intorno agli occhi e alle bocche
+dat14=delle mascotte.
+
+dat15=Un genitore li ha paragonati a delle
+dat16="carcasse rianimate".
+
+// article 3
+[71]
+steps=7
+dat1=Cinque bambini dichiarati scomparsi.
+dat2=Sospetto condannato.
+
+dat3=Cinque bambini sono ora collegati
+dat4=all'incidente al Freddy Fazbear's Pizza,
+
+dat5=dove un uomo travestito da mascotte
+dat6=li ha attirati in una stanza sul retro.
+
+dat7=Mentre il sospettato è stato accusato,
+dat8=i corpi non sono mai stati trovati.
+
+dat9=Freddy Fazbear's Pizza sta da allora
+dat10=combattendo una dura battaglia
+
+dat11=per convincere le famiglie
+dat12=a ritornare alla pizzeria.
+
+dat13="É una tragedia."
+dat14=
+
+// article 4
+[72]
+steps=8
+dat1=Si dice che la pizzeria locale
+dat2=chiuderà entro la fine dell'anno.
+
+dat3=Dopo una lunga lotta
+dat4=per rimanere in attività
+
+dat5=dopo la tragedia avvenuta lì
+dat6=tanti anni fa,
+
+dat7=Freddy Fazbear's Pizza ha annunciato
+dat8=che chiuderà entro la fine dell'anno.
+
+dat9=Nonostante la ricerca di un acquirente,
+dat10=
+
+dat11=le aziende sembrano non voler essere
+dat12=associate alla società.
+
+dat13="Questi personaggi vivranno.
+dat14=
+
+dat15="Nei cuori dei bambini-
+dat16=questi personaggi vivranno." - CEO
+
+|=========================================|
+// informal notes from company management to employee/Player
+// Night 5 paycheck
+// use the T-form of distinction if applicable
+[14-Night 5 Paycheck (the end)]
+steps=3
+dat1=Ottimo lavoro!
+dat2=(Ci vediamo la prossima settimana)
+
+dat3=PROMEMORIA: Dipendente Stimato
+dat4=
+
+// Night 6 paycheck
+// use the T-form of distinction if applicable
+[15-Night 6 Paycheck (the end 2)]
+steps=3
+dat1=Ottimo lavoro!
+dat2=(Hai guadagnato degli straordinari!)
+
+dat3=PROMEMORIA: impiegato del mese
+dat4=
+
+// Custom Night termination notice / pink slip
+// use the T-form of distinction if applicable
+[16-Custom Night Pink Slip (the end 3)]
+steps=4
+dat1=AVVISO DI TERMINAZIONE
+dat2=(sei licenziato)
+
+dat3=MOTIVO: Manomissione degli animatronici.
+dat4=Scarsità di professionalità. Odore.
+
+dat5=grazie, la gestione
+dat6=
+
+|=========================================|
